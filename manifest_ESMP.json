@@ -145,8 +145,8 @@
     },
     "config/cameraoverhaul.toml": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/cameraoverhaul.toml",
-      "sha256": "4c87a4108f3085df5f77fd7402a63ba036d51ec114ef6e306821ce71ddc4887b",
-      "size": 5421
+      "sha256": "099f93589e34d22e279ba2851036cf5cdc1a43ea19b4ada76412c9c608a3db05",
+      "size": 5280
     },
     "config/chisel.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/chisel.json",
@@ -185,8 +185,8 @@
     },
     "config/crittersandcompanions-common.toml": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/crittersandcompanions-common.toml",
-      "sha256": "e63be2a3f8009845d55005b3ad4454e4fcb165bf6373826d720610db039ba215",
-      "size": 1561
+      "sha256": "32a11d8e6ea23c134db7579c71da05560c7613f2a4f7c5501a45ab41e32db1da",
+      "size": 1466
     },
     "config/cryonicconfig.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/cryonicconfig.json",
@@ -195,8 +195,8 @@
     },
     "config/DistantHorizons.toml": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/DistantHorizons.toml",
-      "sha256": "e89099197db7f238238ed401c4aef7640f427fcb099c626c01b7dbce6ffeeff8",
-      "size": 32103
+      "sha256": "0a2643620300d8948d209503de2da7f930819b84fffb1fe647de9d423f7a8385",
+      "size": 31289
     },
     "config/dollmod.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/dollmod.json",
@@ -210,18 +210,18 @@
     },
     "config/dynamictrees-common.toml": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/dynamictrees-common.toml",
-      "sha256": "b886f618644104a8fa31481ca7ea405167cb05255466de78f85d8de707f93032",
-      "size": 489
+      "sha256": "d946af7db5c49afe97412c1e701121104869ccb7488e97770c7b831c5aee9b77",
+      "size": 470
     },
     "config/forgeconfigapiport.toml": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/forgeconfigapiport.toml",
-      "sha256": "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450",
-      "size": 523
+      "sha256": "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec",
+      "size": 517
     },
     "config/iris.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/iris.properties",
-      "sha256": "111c33b9683e62cd97b497ef6fc77bf589c30223b10de7ae1be3d901a2696f01",
-      "size": 288
+      "sha256": "4410338cfb156df0f63e427bf64ee8f307dcd02c9d3d0f8d98c671b0a997aea4",
+      "size": 280
     },
     "config/litematica.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/litematica.json",
@@ -270,13 +270,13 @@
     },
     "config/xaerohud.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/xaerohud.txt",
-      "sha256": "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c",
-      "size": 123
+      "sha256": "cece60604b8de5e978141c981c1ed85227c8f30697a513869012b06dd15fcf02",
+      "size": 122
     },
     "config/xaerominimap-common.txt.backup0": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/xaerominimap-common.txt.backup0",
-      "sha256": "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f",
-      "size": 145
+      "sha256": "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca",
+      "size": 140
     },
     "config/xaeropatreon.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/xaeropatreon.txt",
@@ -290,8 +290,8 @@
     },
     "config/fabric/indigo-renderer.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/fabric/indigo-renderer.properties",
-      "sha256": "894688f88bd4163c4aa80d5b2ad8a45136da59e05034de8f974be2d4c7d8b716",
-      "size": 290
+      "sha256": "664c59b7165321bd7ac7403db697d32605df4309d5d8187eb7e19ea081f3e85a",
+      "size": 281
     },
     "config/fancymenu/audio_element_controller_metas.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/fancymenu/audio_element_controller_metas.json",
@@ -535,38 +535,38 @@
     },
     "config/jei/ingredient-list-mod-sort-order.ini": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/jei/ingredient-list-mod-sort-order.ini",
-      "sha256": "5c45faca992b6f30cc071e254f3b8cd9af3949dd04c5be36c27a9454f39a3dc6",
-      "size": 28
+      "sha256": "fbfd6ea09845bab046628933b9f8743c666f7e84aba35fb7fb3140eea0e2e8be",
+      "size": 26
     },
     "config/jei/ingredient-list-type-sort-order.ini": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/jei/ingredient-list-type-sort-order.ini",
-      "sha256": "5064fb08f3a4af3321de4746ac60fe83ac464732b684a38c68d97ad2c4bce440",
-      "size": 86
+      "sha256": "f6faa8cf111795b26bb59fe7618381fba1879ddc35dbac176297f57941496ff6",
+      "size": 84
     },
     "config/jei/jei-client.ini": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/jei/jei-client.ini",
-      "sha256": "3691bfb2ef9cdd583d9675d8ad04b91c196be4f53dd66e8c2a0d41f3e38c90be",
-      "size": 10760
+      "sha256": "d17d09fbe4cbc901e8ef9997a44a251f000576acd07a2e5bb2948cc13f2b9ed5",
+      "size": 10437
     },
     "config/jei/jei-colors.ini": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/jei/jei-colors.ini",
-      "sha256": "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f",
-      "size": 1362
+      "sha256": "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5",
+      "size": 1353
     },
     "config/jei/jei-debug.ini": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/jei/jei-debug.ini",
-      "sha256": "938c07f0dbff699649c4ab2c8a850067ca7876e5a7e61245f173f741f39d9672",
-      "size": 1430
+      "sha256": "8e1a955b5a5c87199dc45b3a4a2cb32d1389ca032cacb0bc1914cbbb1fc14e62",
+      "size": 1386
     },
     "config/jei/jei-mod-id-format.ini": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/jei/jei-mod-id-format.ini",
-      "sha256": "64eadca7fa07c15de7fd549c4cc4782bf8678d8a49d1626b0805e337d604ccb7",
-      "size": 557
+      "sha256": "055bf6becf47277e5e41aefb2e0f38443e86784571cd74c03a2a4f930cbedd7e",
+      "size": 545
     },
     "config/jei/recipe-category-sort-order.ini": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/jei/recipe-category-sort-order.ini",
-      "sha256": "f6189d1ae445aa0632fb15115965e9ee418396cae1e4e7a7b3888ea077b02a76",
-      "size": 265
+      "sha256": "d9617b142743e0546c3f9d4afbaa6c348969c9e2b1df7ce233218437298339d9",
+      "size": 252
     },
     "config/jei/world/local/Mundo_nuevo/bookmarks.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/jei/world/local/Mundo_nuevo/bookmarks.json",
@@ -1040,8 +1040,8 @@
     },
     "config/plasmovoice/client.toml": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/plasmovoice/client.toml",
-      "sha256": "7490151f0fbd96e7fd1f076ef52862a081118df9bcd3b0c1ed65aeedbd6a5acb",
-      "size": 1520
+      "sha256": "b5293b3f6f0bc72f89722a41aacbc063d788e948c3ff3ec2749a6ca31f3e50e4",
+      "size": 1514
     },
     "config/plasmovoice/meta_cache.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/plasmovoice/meta_cache.json",
@@ -1130,8 +1130,8 @@
     },
     "config/plasmovoice/server/config.toml": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/plasmovoice/server/config.toml",
-      "sha256": "8f88461ca822b1e0a1df086d6f34f18a5a8043e70d778ba45b6374f5546179f5",
-      "size": 3605
+      "sha256": "750fdc63ea7a1fa70800a1545282a829e259b1c2ace43fcb8a0252d9fd26cb46",
+      "size": 3596
     },
     "config/plasmovoice/server/voice_mutes.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/plasmovoice/server/voice_mutes.json",
@@ -1425,8 +1425,8 @@
     },
     "config/worldedit/worldedit.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/worldedit/worldedit.properties",
-      "sha256": "d38045edcbd8c89585242a5ffa88c45122fe9dd273184fd988bc9b3acc5d74a0",
-      "size": 2546
+      "sha256": "54aaa2e6ba4c7e22412a71e61d9684ebb2f09fe0aee0ab1c4d7bac3620a7b9e8",
+      "size": 2500
     },
     "config/worldedit/.archive-unpack/5f7cd289/strings.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/config/worldedit/.archive-unpack/5f7cd289/strings.json",
