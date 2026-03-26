@@ -4,142 +4,142 @@
   "generated_at": "2026-03-26T07:27:43.297715",
   "files": {
     "mods/architectury-13.0.8-fabric.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/architectury-13.0.8-fabric.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/architectury-13.0.8-fabric.jar",
       "sha256": "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d",
       "size": 600915
     },
     "mods/chisel-fabric-2.0.0+mc1.21.1.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/chisel-fabric-2.0.0%2Bmc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/chisel-fabric-2.0.0+mc1.21.1.jar",
       "sha256": "646420410e1d9d91cf259af388969aa377122d70645c0162463439a039afe88b",
       "size": 8266838
     },
     "mods/cloth-config-15.0.140-fabric.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/cloth-config-15.0.140-fabric.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/cloth-config-15.0.140-fabric.jar",
       "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
       "size": 1157166
     },
     "mods/CreeperOverhaul-fabric-1.21.1-4.0.6.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/CreeperOverhaul-fabric-1.21.1-4.0.6.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/CreeperOverhaul-fabric-1.21.1-4.0.6.jar",
       "sha256": "45ea8ca85ea5926484347de7289ceeeff3e79c6f16b4b04f98ffebf2e484b5a6",
       "size": 1180412
     },
     "mods/crittersandcompanions-fabric-1.21.1-2.3.4.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/crittersandcompanions-fabric-1.21.1-2.3.4.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/crittersandcompanions-fabric-1.21.1-2.3.4.jar",
       "sha256": "80afd705b02b68baf2199421a112cb806697ffe6b28cc5bdd860eb305d1a949a",
       "size": 3996131
     },
     "mods/cryonicconfig-fabric-1.0.0+mc1.21.11.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/cryonicconfig-fabric-1.0.0%2Bmc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/cryonicconfig-fabric-1.0.0+mc1.21.11.jar",
       "sha256": "6fbd56d2599c3f08908a076333e416a86d3d544d28fd702dbbbb7739f8c7efc5",
       "size": 21696
     },
     "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
       "sha256": "44784c6b8423ba5fcffd8ba81dff27479a39bc8eb6e48bb4ef04126a0d9d4086",
       "size": 235272
     },
     "mods/esmp-statue-1.0.0.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/esmp-statue-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/esmp-statue-1.0.0.jar",
       "sha256": "3c3dc436ed9b7f97a086e6c0afc914d91bc0e233e6d37f045dcf1a351080c528",
       "size": 56126
     },
     "mods/fabric-api-0.116.7+1.21.1.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/fabric-api-0.116.7%2B1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/fabric-api-0.116.7+1.21.1.jar",
       "sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
       "size": 2424884
     },
     "mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar",
       "sha256": "f069dc8d0fc89f6b321f871eea3ddc333962b9bb225e967fcea35825ee1fe659",
       "size": 3618632
     },
     "mods/geckolib-fabric-1.21.1-4.8.2.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/geckolib-fabric-1.21.1-4.8.2.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/geckolib-fabric-1.21.1-4.8.2.jar",
       "sha256": "a70c334830decbb9d7cb88478a49d19d6ce823ba3356ca62034a445fef3c2d04",
       "size": 652999
     },
     "mods/gliders-1.21.1-fabric-1.1.8.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/gliders-1.21.1-fabric-1.1.8.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/gliders-1.21.1-fabric-1.1.8.jar",
       "sha256": "429a19bf2d01b17bc7f71f88577b537b40c700a90866a8c77757f82e71d9f829",
       "size": 663384
     },
     "mods/iris-fabric-1.8.0+mc1.21.1.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/iris-fabric-1.8.0%2Bmc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/iris-fabric-1.8.0+mc1.21.1.jar",
       "sha256": "09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa",
       "size": 2675365
     },
     "mods/Jade-1.21.1-Fabric-15.10.2.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/Jade-1.21.1-Fabric-15.10.2.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/Jade-1.21.1-Fabric-15.10.2.jar",
       "sha256": "51f57ee9f6eeffce9cbf9abe0c68c23105c6ffa7215a3b75240117799d897398",
       "size": 739001
     },
     "mods/konkrete_fabric_1.9.9_MC_1.21.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/konkrete_fabric_1.9.9_MC_1.21.jar",
       "sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
       "size": 786695
     },
     "mods/melody_fabric_1.0.10_MC_1.21.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/melody_fabric_1.0.10_MC_1.21.jar",
       "sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
       "size": 188035
     },
     "mods/NoFog-1.21-1.21.1.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/NoFog-1.21-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/NoFog-1.21-1.21.1.jar",
       "sha256": "b11a9e771ff424d7439a910c1515611d1921042621bf52ad29ffc061a3731b4d",
       "size": 5423
     },
     "mods/offlineskins-1.21.1-v1a-fabric.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/offlineskins-1.21.1-v1a-fabric.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/offlineskins-1.21.1-v1a-fabric.jar",
       "sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
       "size": 101128
     },
     "mods/plasmovoice-fabric-1.21-2.1.8.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/plasmovoice-fabric-1.21-2.1.8.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/plasmovoice-fabric-1.21-2.1.8.jar",
       "sha256": "089f9c18b0368f82008f0ca475ccbec71ba62c897116522bb37db920e001ba5e",
       "size": 12209334
     },
     "mods/pv-addon-broadcast-1.1.0.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/pv-addon-broadcast-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/pv-addon-broadcast-1.1.0.jar",
       "sha256": "3c4e39582d7b7236129a9cca42412d5faefd1ba54f2e637ed1027c0791f31d08",
       "size": 58461
     },
     "mods/pv-addon-spectator-1.1.0.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/pv-addon-spectator-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/pv-addon-spectator-1.1.0.jar",
       "sha256": "64703efc3e8521a915fd1e840e522852f15aaccacaf202fc77c7c0229c646fda",
       "size": 13188
     },
     "mods/resourcefulconfig-fabric-1.21-3.0.11.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/resourcefulconfig-fabric-1.21-3.0.11.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/resourcefulconfig-fabric-1.21-3.0.11.jar",
       "sha256": "8c2624ddeda09d00c42095a37281dc502c6dcaffae68a3e08c3ea57fef28425e",
       "size": 345396
     },
     "mods/resourcefullib-fabric-1.21-3.0.12.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/resourcefullib-fabric-1.21-3.0.12.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/resourcefullib-fabric-1.21-3.0.12.jar",
       "sha256": "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5",
       "size": 485586
     },
     "mods/sodium-fabric-0.6.0+mc1.21.1.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/sodium-fabric-0.6.0%2Bmc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/sodium-fabric-0.6.0+mc1.21.1.jar",
       "sha256": "21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e",
       "size": 1281394
     },
     "mods/voicetranslation-2.0.0.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/voicetranslation-2.0.0.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/voicetranslation-2.0.0.jar",
       "sha256": "5d89afd35644c0cd769dc6a2b80e84562e04239a1d9f757bf0ae9be039f5f194",
       "size": 2108937
     },
     "mods/worldedit-mod-7.3.8.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/worldedit-mod-7.3.8.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/worldedit-mod-7.3.8.jar",
       "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
       "size": 6222854
     },
     "mods/xaerominimap-fabric-1.21.1-25.3.10.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/xaerominimap-fabric-1.21.1-25.3.10.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/xaerominimap-fabric-1.21.1-25.3.10.jar",
       "sha256": "51e52058f947323fcf2d6cd495dbdc42e9937beb916a1d976f78a702fb08aaef",
       "size": 2177333
     },
     "mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/ESMP/mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar",
       "sha256": "89bcd5191206687ceabe4e083647d6d7713c846f64556738c37028c830890003",
       "size": 1406730
     },
