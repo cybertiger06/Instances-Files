@@ -1,0 +1,19 @@
+[vanilla]
+	replaceVanillaSaplings = false
+	replaceNyliumFungi = true
+	cancelVanillaVillageTrees = true
+	#Range: 0 ~ 4096
+	maxFallingTreeLeavesParticles = 400
+
+[misc]
+	generateDirtBucketRecipes = true
+	generateMegaSeedRecipe = true
+	biocharBrewingBase = "minecraft:thick"
+
+[integration]
+	preferredSeasonMod = "*"
+	enableSeasonalSeedDropFactor = true
+	enableSeasonalGrowthFactor = true
+	enableSeasonalFruitProductionFactor = true
+	#Range: 0.0 ~ 4.0
+	wetSeasonOffset = 2.5

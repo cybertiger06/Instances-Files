@@ -1,0 +1,11 @@
+[
+  {"version":1},
+  {"recipe":"modsallioclub:blindado_militar_helmet","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"modsallioclub:security_door"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"modsallioclub:security_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:rabbit_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pfm:raw_concrete_powder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pfm:raw_concrete"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"modsallioclub:blindado_militar_helmet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"modsallioclub:copilot_cuadro"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
