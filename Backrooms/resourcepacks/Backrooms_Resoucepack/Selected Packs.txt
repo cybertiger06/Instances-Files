@@ -1,0 +1,10 @@
+Vanilla Tweaks Resource Pack
+Version: 1.21
+Packs:
+	DarkUI
+	ConcreteYellowBG
+	ConcreteGrayBG
+	ColoredWidgetsYellow
+	ColoredHotbarSelOrange
+	ColoredHeartsYellow
+	PingColorIndicator
