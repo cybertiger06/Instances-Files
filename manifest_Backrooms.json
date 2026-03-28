@@ -2769,6 +2769,11 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/shaderpacks/BSL_v10.1.1.zip",
       "sha256": "131ca6b56b100e60577ffdb0dd51bfab2ee6e334564eeee324e5422026891668",
       "size": 1125052
+    },
+    "options.txt": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/options.txt",
+      "sha256": "6f66f7a1197287f35e1d3a00e05bddb50d51b5b112327ebe47df7e4bb1c93bfb",
+      "size": 3939
     }
   }
 }
