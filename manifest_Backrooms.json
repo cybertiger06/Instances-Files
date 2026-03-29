@@ -192,8 +192,8 @@
     },
     "config/fabric/indigo-renderer.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/fabric/indigo-renderer.properties",
-      "sha256": "f94ce740ad3916f17543f95b03deaa3012ea35da8fcc3ccd0f9c896df315f420",
-      "size": 291
+      "sha256": "f919cf4a23a38e920fe87347ef2c3d727368b84ceab3530b18d1a30a06dda3a8",
+      "size": 282
     },
     "config/fancymenu/audio_element_controller_metas.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/fancymenu/audio_element_controller_metas.json",
