@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "instance_name": "Backrooms Instace",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -9,11 +9,6 @@
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/mods/alliovoicechat-fabric-1.21-2.1.8.jar",
       "sha256": "67d80b2ed4bc694a54dae8e9cc44a880df3e0dc238bc85ad354d526fde829d65",
       "size": 12215569
-    },
-    "mods/backrooms-1.0.0.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/mods/backrooms-1.0.0.jar",
-      "sha256": "92555ee17f10cb7bec642ebbb6fdbf0ccd8a92b9ec3d0dd11db89b2d06777df5",
-      "size": 1279320247
     },
     "mods/CameraOverhaul-v2.0.6-fabric+mc[1.21.0-1.21.2].jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/mods/CameraOverhaul-v2.0.6-fabric%2Bmc%5B1.21.0-1.21.2%5D.jar",
@@ -127,8 +122,8 @@
     },
     "config/iris.properties": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/iris.properties",
-      "sha256": "8eb7d0eba967319431781e7cdbf085081b00fcf529cf07f8f9a105a9fbd366fe",
-      "size": 269
+      "sha256": "89e02958f7716ba066814d06628fd706fdabba6aacb8ebf4f6444fe1bbd1564b",
+      "size": 270
     },
     "config/litematica.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/litematica.json",
@@ -157,7 +152,7 @@
     },
     "config/sodium-fingerprint.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/sodium-fingerprint.json",
-      "sha256": "f6935f052a57503b327316bdf445264f1bd68b73af590bb1d46a3a5d4d0a7719",
+      "sha256": "279d7a1ec1b81ae92f8ad2ccd1dec90eec50c2009e923538e128347fc05990e3",
       "size": 427
     },
     "config/sodium-mixins.properties": {
@@ -197,8 +192,8 @@
     },
     "config/fabric/indigo-renderer.properties": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/fabric/indigo-renderer.properties",
-      "sha256": "974aca410e3314a6439156c70c0b16b86b6387824a43676c498daa1cfac4e312",
-      "size": 290
+      "sha256": "f94ce740ad3916f17543f95b03deaa3012ea35da8fcc3ccd0f9c896df315f420",
+      "size": 291
     },
     "config/fancymenu/audio_element_controller_metas.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/fancymenu/audio_element_controller_metas.json",
@@ -1007,7 +1002,7 @@
     },
     "config/plasmovoice/meta_cache.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/meta_cache.json",
-      "sha256": "fbc037688401cb187384fa5513c320ec58818827882e00303e4e2fddc2942d5e",
+      "sha256": "6debb5153895edfdb4d4fbfb2dacfe4192edd278d10b0951823ac2f224cec662",
       "size": 1309
     },
     "config/plasmovoice/server/config.toml": {
@@ -2772,8 +2767,13 @@
     },
     "options.txt": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/options.txt",
-      "sha256": "6f66f7a1197287f35e1d3a00e05bddb50d51b5b112327ebe47df7e4bb1c93bfb",
-      "size": 3939
+      "sha256": "ea215ba60724b2396297736136bf22c7ea67a8f14083b83edb6210e30354e0ea",
+      "size": 3987
+    },
+    "mods/backrooms-2.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/mods/backrooms-2.0.0.jar",
+      "sha256": "1a9637da42dde9029ea6962ff950ba7e9fa6613b4f79825b45b56d6b27006bc4",
+      "size": 1281039707
     }
   }
 }
