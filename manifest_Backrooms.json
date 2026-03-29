@@ -122,8 +122,8 @@
     },
     "config/iris.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/iris.properties",
-      "sha256": "89e02958f7716ba066814d06628fd706fdabba6aacb8ebf4f6444fe1bbd1564b",
-      "size": 270
+      "sha256": "e57cb1c2e8b50994075efcf8e2957fde9a72357f9830f96f63a7d79bb19981e7",
+      "size": 262
     },
     "config/litematica.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/litematica.json",
@@ -2767,8 +2767,8 @@
     },
     "options.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/options.txt",
-      "sha256": "ea215ba60724b2396297736136bf22c7ea67a8f14083b83edb6210e30354e0ea",
-      "size": 3987
+      "sha256": "7644df47514b1db066fdb467f45cfc1eafc5bde92adf0ca0ab9f13d840b8c125",
+      "size": 3840
     },
     "mods/backrooms-2.0.0.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/mods/backrooms-2.0.0.jar",
