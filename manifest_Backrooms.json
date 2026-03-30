@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "instance_name": "Backrooms Instace",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -122,8 +122,8 @@
     },
     "config/iris.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/iris.properties",
-      "sha256": "e57cb1c2e8b50994075efcf8e2957fde9a72357f9830f96f63a7d79bb19981e7",
-      "size": 262
+      "sha256": "6b4ab0b2e4dd2031d613aa70fc7a9c2926c2e01c9e7d97f6556437b4a610722e",
+      "size": 270
     },
     "config/litematica.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/litematica.json",
@@ -152,7 +152,7 @@
     },
     "config/sodium-fingerprint.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/sodium-fingerprint.json",
-      "sha256": "279d7a1ec1b81ae92f8ad2ccd1dec90eec50c2009e923538e128347fc05990e3",
+      "sha256": "1053bb316c5c8dcd2dc0d32644b482003a09495de5bb73e186278f38c6d2cc26",
       "size": 427
     },
     "config/sodium-mixins.properties": {
@@ -162,8 +162,8 @@
     },
     "config/sodium-options.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/sodium-options.json",
-      "sha256": "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca",
-      "size": 664
+      "sha256": "d67af2bb02b3a10ec69f03e115278aa8d2048b63c41a0ef3486c502458912a2b",
+      "size": 662
     },
     "config/voicetranslation.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/voicetranslation.json",
@@ -192,8 +192,8 @@
     },
     "config/fabric/indigo-renderer.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/fabric/indigo-renderer.properties",
-      "sha256": "f919cf4a23a38e920fe87347ef2c3d727368b84ceab3530b18d1a30a06dda3a8",
-      "size": 282
+      "sha256": "b022e17924f2b59dee4f3b00664cdc8d3d3c381d6183934e108b06a2e85bbe6f",
+      "size": 291
     },
     "config/fancymenu/audio_element_controller_metas.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/fancymenu/audio_element_controller_metas.json",
@@ -202,8 +202,8 @@
     },
     "config/fancymenu/customizablemenus.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/fancymenu/customizablemenus.txt",
-      "sha256": "e33439259e7e2da4a21c55a1e93b4f74c7c557bd499f99a683ff96d777ec6626",
-      "size": 362
+      "sha256": "2aead1d8bfd8f1d4e18f1f21453d1cdb1fa0c8e3e5f99c64ade6b985935e7f64",
+      "size": 392
     },
     "config/fancymenu/custom_gui_screens.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/fancymenu/custom_gui_screens.txt",
@@ -1002,7 +1002,7 @@
     },
     "config/plasmovoice/meta_cache.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/meta_cache.json",
-      "sha256": "6debb5153895edfdb4d4fbfb2dacfe4192edd278d10b0951823ac2f224cec662",
+      "sha256": "aee551d759aed6fd586e4ebb607a13edcc54c555faae216a2374c167f52d80ca",
       "size": 1309
     },
     "config/plasmovoice/server/config.toml": {
@@ -2767,13 +2767,943 @@
     },
     "options.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/options.txt",
-      "sha256": "7644df47514b1db066fdb467f45cfc1eafc5bde92adf0ca0ab9f13d840b8c125",
-      "size": 3840
+      "sha256": "ea215ba60724b2396297736136bf22c7ea67a8f14083b83edb6210e30354e0ea",
+      "size": 3987
     },
-    "mods/backrooms-2.0.0.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/mods/backrooms-2.0.0.jar",
-      "sha256": "1a9637da42dde9029ea6962ff950ba7e9fa6613b4f79825b45b56d6b27006bc4",
-      "size": 1281039707
+    "mods/backrooms-2.0.5.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/mods/backrooms-2.0.5.jar",
+      "sha256": "32ac8a755a9542ef1fc8392009dc9b07a91ec4b841e2bbf4104b839e32c1fc0d",
+      "size": 1302394932
+    },
+    "config/plasmovoice/.crowdin/de_de.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/de_de.json",
+      "sha256": "1fe30625fb96f11e1513d848a04bc4fbad707f4ad0ba61849a388a9e7a33ca9d",
+      "size": 8510
+    },
+    "config/plasmovoice/.crowdin/es_es.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/es_es.json",
+      "sha256": "bcd62f8b59b77ed388231cbd6cd479f58aa82309788ba2a26410cb21e514adfa",
+      "size": 9115
+    },
+    "config/plasmovoice/.crowdin/fr_fr.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/fr_fr.json",
+      "sha256": "6c2e91b1a964e5dd4511702fd554ac8094c4f862ab4679b7dbd54af18c128db0",
+      "size": 9154
+    },
+    "config/plasmovoice/.crowdin/he_il.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/he_il.json",
+      "sha256": "81af917b226159198f9a76cb9caa4ffa5ba108684106d0a7d7a46a0e756f4a29",
+      "size": 9290
+    },
+    "config/plasmovoice/.crowdin/ja_jp.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/ja_jp.json",
+      "sha256": "0db355eb21a7795e9e57bb94ae925a28efdbdec49b0704476dcf9c9dc2ed5566",
+      "size": 9467
+    },
+    "config/plasmovoice/.crowdin/ko_kr.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/ko_kr.json",
+      "sha256": "8e0d47316caee0b490f6bedabb5532da30567094b6438deead1f3f0f85e66346",
+      "size": 9208
+    },
+    "config/plasmovoice/.crowdin/pl_pl.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/pl_pl.json",
+      "sha256": "62a43c9f3d46b1e1630b1988ee07413139da25a57dc49265b8cc9450cbae0cfb",
+      "size": 8890
+    },
+    "config/plasmovoice/.crowdin/pt_br.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/pt_br.json",
+      "sha256": "b0e75ebd3798bdbe416ffb3ea3ac0bda766e3bcf92864821bab5a1f34e434a18",
+      "size": 9046
+    },
+    "config/plasmovoice/.crowdin/ru_ru.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/ru_ru.json",
+      "sha256": "d968868df22341f8b07a1b35c2dbbeaee2c14a866037a00fdd6a0521b9d0e01b",
+      "size": 11446
+    },
+    "config/plasmovoice/.crowdin/timestamp": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/timestamp",
+      "sha256": "61c3b0fab12832009e06fdc9b56144008d23b1ab9ea104736335bf18a6cf8f54",
+      "size": 13
+    },
+    "config/plasmovoice/.crowdin/tr_tr.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/tr_tr.json",
+      "sha256": "737689d0d384a71a45e6e7a96977ab36cba9f417f3ca43863cdcf0215779754d",
+      "size": 1545
+    },
+    "config/plasmovoice/.crowdin/tt_ru.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/tt_ru.json",
+      "sha256": "4437e99ad9a5a3c95a7522a149c97d83ed5755228e1a2ce6478cc6c447351157",
+      "size": 11312
+    },
+    "config/plasmovoice/.crowdin/uk_ua.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/uk_ua.json",
+      "sha256": "3348f1728d61f8a274f99a73d03a6dbd3b43fa47662cce41035a8cad6cb36b60",
+      "size": 10828
+    },
+    "config/plasmovoice/.crowdin/vi_vn.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/vi_vn.json",
+      "sha256": "9fc7b9669868da19f237629ff536155135e17e6c3a42f978bec98fb514aa0c25",
+      "size": 10102
+    },
+    "config/plasmovoice/.crowdin/zh_cn.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/zh_cn.json",
+      "sha256": "b92d52b8ffbc46de6da360f5a785bc920cfc3c3885de6f373257110fc3ebc94c",
+      "size": 8123
+    },
+    "config/plasmovoice/.crowdin/zh_tw.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/zh_tw.json",
+      "sha256": "14870f7731fe7381871e17a10d3cb962a041f31ae613cf6872e9debd20775a8c",
+      "size": 8119
+    },
+    "config/plasmovoice/server/languages/.crowdin/de_de.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/de_de.toml",
+      "sha256": "29fab82d4a3280d63e9df7a0f02473b0098f3b5312979ea61aaf8f4b187eaa19",
+      "size": 2187
+    },
+    "config/plasmovoice/server/languages/.crowdin/es_es.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/es_es.toml",
+      "sha256": "f434de429907bd810d018ba0db4584eb63f3a1dfbd8fa0d374ca8342416a0017",
+      "size": 2123
+    },
+    "config/plasmovoice/server/languages/.crowdin/fr_fr.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/fr_fr.toml",
+      "sha256": "59931182a23c8691011180014ab5cdf8d676a64d129b55175a8521e24d67ffb7",
+      "size": 2099
+    },
+    "config/plasmovoice/server/languages/.crowdin/he_il.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/he_il.toml",
+      "sha256": "fa6fded3bbb26f21f9e7ef521370c6d4ce368529cbe927eee741467e75e04817",
+      "size": 2228
+    },
+    "config/plasmovoice/server/languages/.crowdin/ja_jp.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/ja_jp.toml",
+      "sha256": "1f83c01943a55663177bdb991a7b1bcef23450f2996467f70f51ca4b8c72dd0b",
+      "size": 2508
+    },
+    "config/plasmovoice/server/languages/.crowdin/ko_kr.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/ko_kr.toml",
+      "sha256": "df06537abcd1e218d48357beec47441cc43c3dcf2c318bfd22b921244d81fa0d",
+      "size": 2356
+    },
+    "config/plasmovoice/server/languages/.crowdin/pl_pl.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/pl_pl.toml",
+      "sha256": "06196ef2e05c14f360d561e08ac5ebf9ef89272161b6ce382c312bece82196af",
+      "size": 2040
+    },
+    "config/plasmovoice/server/languages/.crowdin/pt_br.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/pt_br.toml",
+      "sha256": "a3931d10e96140e381350850744c702cc9d7c1a4aac264dd996e2a21a8144aee",
+      "size": 2035
+    },
+    "config/plasmovoice/server/languages/.crowdin/ru_ru.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/ru_ru.toml",
+      "sha256": "c0c45c94a604050a478cbb63a77ab1167122a5b52f53564da1165243cfacf643",
+      "size": 2531
+    },
+    "config/plasmovoice/server/languages/.crowdin/timestamp": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/timestamp",
+      "sha256": "cb874fc4ee63d9d228d1541bc372713633aa0b6e39600124241cf56d263f99ae",
+      "size": 13
+    },
+    "config/plasmovoice/server/languages/.crowdin/tr_tr.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/tr_tr.toml",
+      "sha256": "15ff4d54e5e592ca5d4ea70af061bfb8f820dabc878eb583b21367c441a78807",
+      "size": 2125
+    },
+    "config/plasmovoice/server/languages/.crowdin/tt_ru.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/tt_ru.toml",
+      "sha256": "4381a87ef626fa46045c8322e8431d902eb8bb9ff4f4fbbbc546e65a17975844",
+      "size": 2913
+    },
+    "config/plasmovoice/server/languages/.crowdin/uk_ua.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/uk_ua.toml",
+      "sha256": "1f9cafc386ca07036f9dc4cb84175fe0d222111db44a74dd9043981dbe02a102",
+      "size": 2730
+    },
+    "config/plasmovoice/server/languages/.crowdin/vi_vn.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/vi_vn.toml",
+      "sha256": "cc8fb926bba76906efd205dd5b2f4a582956998bc95b7e26a5d14f2af43cd1d9",
+      "size": 2258
+    },
+    "config/plasmovoice/server/languages/.crowdin/zh_cn.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/zh_cn.toml",
+      "sha256": "503c383b6921681dbc7c2896cea946ded969d4d62ab2f439bd7ffb33f1d24310",
+      "size": 1882
+    },
+    "config/plasmovoice/server/languages/.crowdin/zh_tw.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/zh_tw.toml",
+      "sha256": "cb5ad0855fe3bf0a298de8d02e6e91d76c9c4e3a21ab206297c71b745eb1cfc7",
+      "size": 1879
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/es_es.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/pv-addon-broadcast/languages/.crowdin/es_es.toml",
+      "sha256": "e5c5fdbb7304e6837e7c06d187afea6920437f83d24209fc332c6f860ee06c35",
+      "size": 572
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/he_il.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/pv-addon-broadcast/languages/.crowdin/he_il.toml",
+      "sha256": "3b93b6a7a888e6aa134cca27e8d337d6d09ddfa6aca22b919284bb4ef041dfe8",
+      "size": 567
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/ko_kr.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/pv-addon-broadcast/languages/.crowdin/ko_kr.toml",
+      "sha256": "57f41c36623456cd25d3163963659d338ae08f28d18af3838869e063a4278a8e",
+      "size": 539
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/pl_pl.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/pv-addon-broadcast/languages/.crowdin/pl_pl.toml",
+      "sha256": "fef3ac5449f2eaf19d9c4c72391b60235e3ddfd96f3e7499947115831a037332",
+      "size": 585
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/pt_br.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/pv-addon-broadcast/languages/.crowdin/pt_br.toml",
+      "sha256": "3ab6c89dd1b0f0742a10195778d5109ef967674046e03d96e3a866fbf57b124a",
+      "size": 539
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/ru_ru.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/pv-addon-broadcast/languages/.crowdin/ru_ru.toml",
+      "sha256": "cc5e98b74eb3701d6ee8d94f65478dbf214c3e585edd5d5131b5ecd4f0e997c8",
+      "size": 742
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/timestamp": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/pv-addon-broadcast/languages/.crowdin/timestamp",
+      "sha256": "63a26515684ccef764cda61c4d5f4b1658ed7117d98026556f5563a2db093946",
+      "size": 13
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/tt_ru.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/pv-addon-broadcast/languages/.crowdin/tt_ru.toml",
+      "sha256": "3dffd9424013f20a7742002f0b6e08a212c7af1b7f3c9280d08e08046d420f28",
+      "size": 757
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/vi_vn.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/pv-addon-broadcast/languages/.crowdin/vi_vn.toml",
+      "sha256": "2e4263022cf663104b3a4e136b456c6500f89cdc595a9d74c315230972c88fda",
+      "size": 610
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/zh_cn.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/pv-addon-broadcast/languages/.crowdin/zh_cn.toml",
+      "sha256": "dedf1f390cbd5d1540a9090a2e46f6dcc1af5a4bccd1094468d80f1221dcebe8",
+      "size": 531
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/zh_tw.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/pv-addon-broadcast/languages/.crowdin/zh_tw.toml",
+      "sha256": "0b31568920565723193e0fe0ff4eb1606176b085e8e147e609ac50a0da6e6a99",
+      "size": 531
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/strings.json",
+      "sha256": "8576412d98c50a024e846106276d5e58ae3f49555f2de038705cf183694b3c05",
+      "size": 34876
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/af/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/af/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/an/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/an/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ar/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ar/strings.json",
+      "sha256": "29f9066cad68d934ba7b9740b12fa39b1cfb7bd0de12daee71b3edd6bd3a52be",
+      "size": 4566
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ast/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ast/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/az/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/az/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ba/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ba/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/be/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/be/strings.json",
+      "sha256": "f02d23b0625268b27cad869b781b7cc3a1ecb127ac2f05e6f10dede979f4e281",
+      "size": 4057
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/bg/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/bg/strings.json",
+      "sha256": "55a2e9381b20b6d8acf4730804c9f4f3e26270bf9d2bcdb35c5d6cd241c87163",
+      "size": 4177
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/bn/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/bn/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/br-FR/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/br-FR/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/brb/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/brb/strings.json",
+      "sha256": "f4831bb47d275614f2df358e3c30ebd078d300a7487d1b530b1e132a0020b052",
+      "size": 33977
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/bs/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/bs/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ca/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ca/strings.json",
+      "sha256": "6864f83a4a35f39b5d8b4559fc911236815f6eadf80aefae58e8ac626e171129",
+      "size": 554
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ckb/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ckb/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/cs/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/cs/strings.json",
+      "sha256": "dba99bc72e47f347bbe240dc462bad2cd8ab6587a54e5a64b6ce847f66df0624",
+      "size": 34146
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/csb/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/csb/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/cv/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/cv/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/cy/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/cy/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/da/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/da/strings.json",
+      "sha256": "d1730782efe07c20b986d15eafac3febceac7cf2a99ae351400ff2c191ac79c0",
+      "size": 33355
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/de/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/de/strings.json",
+      "sha256": "4e40ebadd86616eaef661d5ad236d51a647a730fd488586447a201264f16ec56",
+      "size": 35314
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/de-AT/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/de-AT/strings.json",
+      "sha256": "4e40ebadd86616eaef661d5ad236d51a647a730fd488586447a201264f16ec56",
+      "size": 35314
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/de-CH/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/de-CH/strings.json",
+      "sha256": "d48fc5c8242f9b4d9375697c44ef35d07dc3efae6adc6b51e1a46ef023f962ca",
+      "size": 34951
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/dsb-DE/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/dsb-DE/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/el/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/el/strings.json",
+      "sha256": "2fb424866a5e5fb34b3bf78d764ab8a728facc745fac0a423e9ea1c22886e550",
+      "size": 399
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-AU/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/en-AU/strings.json",
+      "sha256": "b2d61b570d18c99d46188ccb6720e81d730b0f45611198275bd1ebe0eff1b68b",
+      "size": 1120
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-CA/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/en-CA/strings.json",
+      "sha256": "53010fa94d238a2ec02167e845e7cda679dc7454841e1abc26fda9717fd77eff",
+      "size": 712
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-GB/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/en-GB/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-NZ/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/en-NZ/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-PT/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/en-PT/strings.json",
+      "sha256": "817dda2b6e3f67ef18f2a5b7cbcbe55765dc3dc29d2b75489315af51386dda2b",
+      "size": 1992
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-UD/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/en-UD/strings.json",
+      "sha256": "c5de119e2db20447702906c6a3e7e20750840a63d04a7b48674cfa1d4dbd5094",
+      "size": 17686
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/enp/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/enp/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/enws/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/enws/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/eo/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/eo/strings.json",
+      "sha256": "5386905f26b174368e7c4bde89dc3deeb74e88e9428d071e3536fe5debce8367",
+      "size": 1007
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-AR/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/es-AR/strings.json",
+      "sha256": "bf962df1cfc012a19cf30d781ef51a60cdb4aaddd74e5c761905c42c110a11cc",
+      "size": 37151
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-CL/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/es-CL/strings.json",
+      "sha256": "c88cc7e91d2a6b314f7376554f089ac137d66916561d1c17912e5ed9cbff455c",
+      "size": 37278
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-CO/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/es-CO/strings.json",
+      "sha256": "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41",
+      "size": 37375
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-EC/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/es-EC/strings.json",
+      "sha256": "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41",
+      "size": 37375
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-ES/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/es-ES/strings.json",
+      "sha256": "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41",
+      "size": 37375
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-MX/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/es-MX/strings.json",
+      "sha256": "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41",
+      "size": 37375
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-UY/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/es-UY/strings.json",
+      "sha256": "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41",
+      "size": 37375
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-VE/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/es-VE/strings.json",
+      "sha256": "ea4f0b067e49b400afd92896d2bc1d0e40714d3c0a4570ffc7b03a3a6af9c925",
+      "size": 37006
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/et/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/et/strings.json",
+      "sha256": "4a6abfa083c16d79b3a35ade4ae32989ff0f429d11cad85caba0aa6519a90c76",
+      "size": 5563
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/eu/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/eu/strings.json",
+      "sha256": "5f114280e675622cff68ddbec13f70b02663a6d852817e723b2180e1bde3d3d9",
+      "size": 8642
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fa/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/fa/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fi/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/fi/strings.json",
+      "sha256": "048c25c056481c5d019ce0a5477f4a347d8fa7f4caaf3581ccbcd9d11928466b",
+      "size": 1550
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fil/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/fil/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fo/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/fo/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fr/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/fr/strings.json",
+      "sha256": "4ba72682581791c2f5ee40a91085c738c7697a0561214710cdaf8e122b182314",
+      "size": 36433
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fr-CA/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/fr-CA/strings.json",
+      "sha256": "4bd774707e676b0c345b1d7a4b197bd22827389db1f591a8b1e22fa424094901",
+      "size": 36482
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fra-DE/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/fra-DE/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fur-IT/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/fur-IT/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fy-NL/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/fy-NL/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ga-IE/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ga-IE/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/gd/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/gd/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/gl/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/gl/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/got/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/got/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/gv/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/gv/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/haw/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/haw/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/he/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/he/strings.json",
+      "sha256": "e54027adbe796e9e0ec188735d3c7a963eb529d8029d4242f1970eafed79ca71",
+      "size": 1460
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hi/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/hi/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hr/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/hr/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hsb-DE/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/hsb-DE/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hu/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/hu/strings.json",
+      "sha256": "6edfb7c4be39c6f9528f0bc1b970c349423057db773449baa233ab1bb3f41159",
+      "size": 11082
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hy-AM/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/hy-AM/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/id/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/id/strings.json",
+      "sha256": "b9f8d18a33d4790ff9e57e455f0c2413441bc2c475fd502f66f095cfc3e9a254",
+      "size": 32634
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ido/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ido/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ig/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ig/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/is/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/is/strings.json",
+      "sha256": "57cfc41f9f82b595a9a4cf77369a6503d3c354f0bfe8cb58e66382fa9836c6a2",
+      "size": 279
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/it/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/it/strings.json",
+      "sha256": "a21fe72d203959554833232910cc1e9e677fdd4b8eebba7d4d70cf5a09471ce5",
+      "size": 34664
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ja/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ja/strings.json",
+      "sha256": "4d24e79624d56512d2b4aea4a19360b864c41050c4d30ce2ec764f5596f83fca",
+      "size": 31222
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/jbo/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/jbo/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ka/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ka/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/kab/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/kab/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/kk/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/kk/strings.json",
+      "sha256": "485b85b7cce118da244f868cc6b64a5abcc6949b631af2584b5b10485c3e9aba",
+      "size": 3419
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/kn/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/kn/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ko/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ko/strings.json",
+      "sha256": "0c685e4ab01f66940095f1ec801fab9f5d9ab3d37c7c065e37ebc8d6c4b6c08f",
+      "size": 32888
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ksh/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ksh/strings.json",
+      "sha256": "4e40ebadd86616eaef661d5ad236d51a647a730fd488586447a201264f16ec56",
+      "size": 35314
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/kw/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/kw/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/la-LA/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/la-LA/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lb/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/lb/strings.json",
+      "sha256": "c13f2e57ec52d87e65580202e32abd12b7880650c38585c0ec2cd484d3767a8a",
+      "size": 288
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/li/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/li/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lo/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/lo/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lol/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/lol/strings.json",
+      "sha256": "ac04004a71075464b6fd0d7f697c5fd4f37d88139cb6a4195a503ddb2cc69b3b",
+      "size": 22242
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lt/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/lt/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lv/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/lv/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/me/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/me/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/mi/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/mi/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/mk/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/mk/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/mn/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/mn/strings.json",
+      "sha256": "7fecfa7b0c24f535bbb0ef2d25edd1cbf3e0eef6c69bb08d75da5e9385095bda",
+      "size": 2954
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/moh/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/moh/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ms/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ms/strings.json",
+      "sha256": "977555440bfb7a00c2ce73a5ad860112639b49942de2c681fe8c123063f3aca2",
+      "size": 3636
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/mt/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/mt/strings.json",
+      "sha256": "f05eb388f7590866da08167a119fd11ed7cbda9449ab6f33ad14adf2f80476dc",
+      "size": 1759
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nds/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/nds/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ne-NP/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ne-NP/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nl/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/nl/strings.json",
+      "sha256": "f4831bb47d275614f2df358e3c30ebd078d300a7487d1b530b1e132a0020b052",
+      "size": 33977
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nl-BE/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/nl-BE/strings.json",
+      "sha256": "b5171c0706aa2e1870659517473218f49acb604df03273315bf81a164ef47a57",
+      "size": 33967
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nn-NO/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/nn-NO/strings.json",
+      "sha256": "e7ac3f2d3631fe0abed4e5b8de8fd3e225204d0d89f1a655ed7ac2f6e02c925f",
+      "size": 30808
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/no/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/no/strings.json",
+      "sha256": "e7ac3f2d3631fe0abed4e5b8de8fd3e225204d0d89f1a655ed7ac2f6e02c925f",
+      "size": 30808
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nuk/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/nuk/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/oc/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/oc/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/oj/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/oj/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/pa-IN/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/pa-IN/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/pl/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/pl/strings.json",
+      "sha256": "ed37e1831b93674c506e1ceb10682c78d8f7e51c846eb015a05b6c2a345c89d4",
+      "size": 35297
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/pt-BR/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/pt-BR/strings.json",
+      "sha256": "ad0133bf41f925ca83edc13c78192d88d81cbbbbcc52972a416c68435b9e1a4e",
+      "size": 35104
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/pt-PT/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/pt-PT/strings.json",
+      "sha256": "e7faa0729f568e6540ec75c048d5ccae8e23e0ffaf789f9b389b4e7acaf481fd",
+      "size": 5382
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/qya-AA/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/qya-AA/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ro/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ro/strings.json",
+      "sha256": "8e7861e62065963842c0ce22dd1e4baf036c548e6ae4aad540d720412fdc1910",
+      "size": 1737
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ru/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ru/strings.json",
+      "sha256": "a1ca1732712dc68a9f6697747b1b566994f7383923c4ca1cd3fcacec198fca82",
+      "size": 45491
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ry-UA/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ry-UA/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sah/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/sah/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/se/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/se/strings.json",
+      "sha256": "ccbfc481e804dfb61768a8ea30f4c857124b1c6fbfc32e254266e9ffa1d9a6cc",
+      "size": 826
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sk/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/sk/strings.json",
+      "sha256": "ee3aa9555be39acd6ae8742d190edd0653e2fa64110a8ac4718898d02921fae3",
+      "size": 10085
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sl/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/sl/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/so/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/so/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sq/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/sq/strings.json",
+      "sha256": "488edc59356647858f3134355efed66b4568bb3f68cbe55c8fdccc6e62493476",
+      "size": 6753
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sr/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/sr/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sr-CS/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/sr-CS/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sr-Cyrl-ME/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/sr-Cyrl-ME/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sv-SE/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/sv-SE/strings.json",
+      "sha256": "6b7b800714b9490c4ea5a3586b76c0ba2fbbb1ed00d88d5f989dfcacde9c40a9",
+      "size": 28327
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/swg/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/swg/strings.json",
+      "sha256": "4e40ebadd86616eaef661d5ad236d51a647a730fd488586447a201264f16ec56",
+      "size": 35314
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/szl/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/szl/strings.json",
+      "sha256": "ed37e1831b93674c506e1ceb10682c78d8f7e51c846eb015a05b6c2a345c89d4",
+      "size": 35297
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ta/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ta/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/th/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/th/strings.json",
+      "sha256": "f99613242e2796e41abb13af00395a4701622a17d5bed81d83d029470715b998",
+      "size": 8214
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tl/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/tl/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tlh-AA/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/tlh-AA/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tr/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/tr/strings.json",
+      "sha256": "897a2f3977fbf4080fe0ea316867e49b5568ae8cf32e22396817380808050e35",
+      "size": 30750
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tt-RU/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/tt-RU/strings.json",
+      "sha256": "5b675c1be27b1ca671505b88dbfc999c9a4791b5d767ac0230d1680cb3d9084a",
+      "size": 1536
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tzl/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/tzl/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/uk/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/uk/strings.json",
+      "sha256": "505d9c983678f8f6bce33d7f33b580ee917949af4ea079991f8779eae7c244fb",
+      "size": 44755
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ur-PK/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/ur-PK/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/uz/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/uz/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/val-ES/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/val-ES/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/vec/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/vec/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/vi/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/vi/strings.json",
+      "sha256": "e79961e59fe757f55a93a3366967d8b9d56815cad56301907e248d06640d97fd",
+      "size": 5975
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/yi/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/yi/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/yo/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/yo/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/zh-CN/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/zh-CN/strings.json",
+      "sha256": "0e62f3e586fe2ba5c1de918fbbe63b84ee5569490af642e7537489d665fd5f7a",
+      "size": 32469
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/zh-HK/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/zh-HK/strings.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/zh-TW/strings.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/.archive-unpack/5f7cd289/zh-TW/strings.json",
+      "sha256": "dc3c9f6273f8c4e10cef482cd283d12c5a74ecdadf3f4f7d5e104b324a2b2720",
+      "size": 32615
+    },
+    "resourcepacks/Backrooms_Resoucepack/assets/minecraft/textures/block/gray_wool.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/resourcepacks/Backrooms_Resoucepack/assets/minecraft/textures/block/gray_wool.png",
+      "sha256": "2e099686074ccee1bdf69e695f6cfc469988878ab59d788b3b79f6091f9c590c",
+      "size": 473
+    },
+    "resourcepacks/Backrooms_Resoucepack/assets/minecraft/textures/block/terracotta.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/resourcepacks/Backrooms_Resoucepack/assets/minecraft/textures/block/terracotta.png",
+      "sha256": "f3154e1085c32ee9d4354d3f4ac314a73fa65017cc842b42afd841a9936546cf",
+      "size": 129
+    },
+    "resourcepacks/Backrooms_Resoucepack/assets/minecraft/textures/block/white_terracotta.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/resourcepacks/Backrooms_Resoucepack/assets/minecraft/textures/block/white_terracotta.png",
+      "sha256": "7ea26c2ad2283210d958427f8022a91697f5f1c90ae812619d00784c70accc26",
+      "size": 120
     }
   }
 }
