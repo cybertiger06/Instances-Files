@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "instance_name": "Sandbox1",
+  "minecraft_version": "1.21.1",
+  "loader": "fabric",
+  "loader_version": "0.18.4",
+  "files": {
+    ".allio_instance_version.txt": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/.allio_instance_version.txt",
+      "sha256": "5969ef6e4f71f1d33eaf0d68d21066ae2b228fe6e07ed5912af7b48d70f35aec",
+      "size": 8
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "instance_name": "Backrooms Instace",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -122,7 +122,7 @@
     },
     "config/iris.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/iris.properties",
-      "sha256": "6b4ab0b2e4dd2031d613aa70fc7a9c2926c2e01c9e7d97f6556437b4a610722e",
+      "sha256": "ffeeb279a52a030bc1341d1b927f872ae1e3ff1ff6fc2c0137d94ea2008a498f",
       "size": 270
     },
     "config/litematica.json": {
@@ -192,7 +192,7 @@
     },
     "config/fabric/indigo-renderer.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/fabric/indigo-renderer.properties",
-      "sha256": "b022e17924f2b59dee4f3b00664cdc8d3d3c381d6183934e108b06a2e85bbe6f",
+      "sha256": "c53234e249d08d688f574179a917daf577387b6cadaca79f2406eb90770754c2",
       "size": 291
     },
     "config/fancymenu/audio_element_controller_metas.json": {
@@ -202,7 +202,7 @@
     },
     "config/fancymenu/customizablemenus.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/fancymenu/customizablemenus.txt",
-      "sha256": "2aead1d8bfd8f1d4e18f1f21453d1cdb1fa0c8e3e5f99c64ade6b985935e7f64",
+      "sha256": "066e959b992fe454d4e6736228ddb5d659cfe6b2c4fad8c19082959a28d13331",
       "size": 392
     },
     "config/fancymenu/custom_gui_screens.txt": {
@@ -1002,7 +1002,7 @@
     },
     "config/plasmovoice/meta_cache.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/meta_cache.json",
-      "sha256": "aee551d759aed6fd586e4ebb607a13edcc54c555faae216a2374c167f52d80ca",
+      "sha256": "9f80a5d05c2ccea2dc13096e9cda8fbb55135858352f83fe7da5dc64b7abf5c4",
       "size": 1309
     },
     "config/plasmovoice/server/config.toml": {
@@ -1167,8 +1167,8 @@
     },
     "config/worldedit/worldedit.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/worldedit.properties",
-      "sha256": "1f70f435b77e8d0ac6d0f1519f09d70f9e0234d80fa413a69f5713c65fa57557",
-      "size": 2546
+      "sha256": "379810d6dba11712efa9ede7bfc01a63dae62fb56cc42bc0e73a01c68956c604",
+      "size": 2547
     },
     "config/worldedit/sessions/2e82d582-c5dd-44a0-887e-e13661fc2866.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/sessions/2e82d582-c5dd-44a0-887e-e13661fc2866.json",
@@ -2770,11 +2770,6 @@
       "sha256": "ea215ba60724b2396297736136bf22c7ea67a8f14083b83edb6210e30354e0ea",
       "size": 3987
     },
-    "mods/backrooms-2.0.5.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/mods/backrooms-2.0.5.jar",
-      "sha256": "32ac8a755a9542ef1fc8392009dc9b07a91ec4b841e2bbf4104b839e32c1fc0d",
-      "size": 1302394932
-    },
     "config/plasmovoice/.crowdin/de_de.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/de_de.json",
       "sha256": "1fe30625fb96f11e1513d848a04bc4fbad707f4ad0ba61849a388a9e7a33ca9d",
@@ -2822,7 +2817,7 @@
     },
     "config/plasmovoice/.crowdin/timestamp": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/.crowdin/timestamp",
-      "sha256": "61c3b0fab12832009e06fdc9b56144008d23b1ab9ea104736335bf18a6cf8f54",
+      "sha256": "a914034fa0e750746b56876ffae9d3d6b246b0be36dd00be3741eacf4c25092b",
       "size": 13
     },
     "config/plasmovoice/.crowdin/tr_tr.json": {
@@ -2902,7 +2897,7 @@
     },
     "config/plasmovoice/server/languages/.crowdin/timestamp": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/server/languages/.crowdin/timestamp",
-      "sha256": "cb874fc4ee63d9d228d1541bc372713633aa0b6e39600124241cf56d263f99ae",
+      "sha256": "403b09d60783a30f70a7c5a002b7f9409869a53489a84121b98cc99aa2bcf3eb",
       "size": 13
     },
     "config/plasmovoice/server/languages/.crowdin/tr_tr.toml": {
@@ -2967,7 +2962,7 @@
     },
     "config/pv-addon-broadcast/languages/.crowdin/timestamp": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/config/pv-addon-broadcast/languages/.crowdin/timestamp",
-      "sha256": "63a26515684ccef764cda61c4d5f4b1658ed7117d98026556f5563a2db093946",
+      "sha256": "6d3f624b0008424c0f2b7601201fc425d84d3daf2cc3785d0cd0cd0d4cc8cf51",
       "size": 13
     },
     "config/pv-addon-broadcast/languages/.crowdin/tt_ru.toml": {
@@ -3704,6 +3699,11 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/Backrooms/resourcepacks/Backrooms_Resoucepack/assets/minecraft/textures/block/white_terracotta.png",
       "sha256": "7ea26c2ad2283210d958427f8022a91697f5f1c90ae812619d00784c70accc26",
       "size": 120
+    },
+    "mods/backrooms-3.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/mods/backrooms-3.0.0.jar",
+      "sha256": "f0f9a438e6cddfa8989b5e243b4284905b4d13658dcca8704e38ccdbea41dca6",
+      "size": 1317314244
     }
   }
 }
