@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "instance_name": "Sandbox1",
+  "version": "1.0.1",
+  "instance_name": "sandbox1",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.18.4",
@@ -9,6 +9,21 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/.allio_instance_version.txt",
       "sha256": "5969ef6e4f71f1d33eaf0d68d21066ae2b228fe6e07ed5912af7b48d70f35aec",
       "size": 8
+    },
+    "mods/fabric-api-0.116.7+1.21.1.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/fabric-api-0.116.7+1.21.1.jar",
+      "sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
+      "size": 2424884
+    },
+    "mods/offlineskins-1.21.1-v1a-fabric.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/offlineskins-1.21.1-v1a-fabric.jar",
+      "sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
+      "size": 101128
+    },
+    "mods/worldedit-mod-7.3.8.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/worldedit-mod-7.3.8.jar",
+      "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
+      "size": 6222854
     }
   }
 }
