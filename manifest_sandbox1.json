@@ -1,19 +1,29 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "instance_name": "sandbox1",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.18.4",
   "files": {
-    ".allio_instance_version.txt": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/.allio_instance_version.txt",
-      "sha256": "5969ef6e4f71f1d33eaf0d68d21066ae2b228fe6e07ed5912af7b48d70f35aec",
-      "size": 8
+    "mods/alliovoicechat-fabric-1.21-2.1.8.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/alliovoicechat-fabric-1.21-2.1.8.jar",
+      "sha256": "67d80b2ed4bc694a54dae8e9cc44a880df3e0dc238bc85ad354d526fde829d65",
+      "size": 12215569
+    },
+    "mods/cinematica-fabric-1.0.0.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/cinematica-fabric-1.0.0.jar",
+      "sha256": "c2de72ec0136790b128a217ce343aec49b2488e80b5c1a1916bf4ac4d4bb53ae",
+      "size": 21852
     },
     "mods/fabric-api-0.116.7+1.21.1.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/fabric-api-0.116.7+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/fabric-api-0.116.7%2B1.21.1.jar",
       "sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
       "size": 2424884
+    },
+    "mods/musica-fabric-1.0.0.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/musica-fabric-1.0.0.jar",
+      "sha256": "a1cabd5c03fd5be3e1aafc3d387c05c713c39a89202eba84d354ab953375d601",
+      "size": 326376
     },
     "mods/offlineskins-1.21.1-v1a-fabric.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/offlineskins-1.21.1-v1a-fabric.jar",
