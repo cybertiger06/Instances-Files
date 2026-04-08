@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "instance_name": "Backrooms",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -10,10 +10,10 @@
       "sha256": "67d80b2ed4bc694a54dae8e9cc44a880df3e0dc238bc85ad354d526fde829d65",
       "size": 12215569
     },
-    "mods/backrooms-3.0.5.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/mods/backrooms-3.0.5.jar",
-      "sha256": "1a4470ac8172e4adc7003b9e0dc6d49dd5419213c012a547ceb81988338fef06",
-      "size": 1317314717
+    "mods/backrooms-4.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/mods/backrooms-4.0.0.jar",
+      "sha256": "e3d01e59f4304b8b8aaef071dcb52fb5e43ffb7de249aa6de917dadc67a42bd2",
+      "size": 1328812134
     },
     "mods/CameraOverhaul-v2.0.6-fabric+mc[1.21.0-1.21.2].jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/mods/CameraOverhaul-v2.0.6-fabric%2Bmc%5B1.21.0-1.21.2%5D.jar",
