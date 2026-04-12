@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "instance_name": "sandbox1",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
-  "loader_version": "0.18.4",
+  "loader_version": "0.17.3",
   "files": {
     "mods/alliovoicechat-fabric-1.21-2.1.8.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/alliovoicechat-fabric-1.21-2.1.8.jar",
@@ -20,6 +20,16 @@
       "sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
       "size": 2424884
     },
+    "mods/framework-fabric-1.21.1-0.13.11.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/framework-fabric-1.21.1-0.13.11.jar",
+      "sha256": "5d15360a4fffa8699562c700b5b0e97f0fd0b63006f0c1dbe2fec2b60022117d",
+      "size": 1647903
+    },
+    "mods/mcw-doors-1.1.5-mc1.21.1fabric.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/mcw-doors-1.1.5-mc1.21.1fabric.jar",
+      "sha256": "36b12175ad87cefcbde35b187b9a1c5ce9e1af1471edf6c5064ebd1a8c868ef1",
+      "size": 1219302
+    },
     "mods/musica-fabric-1.0.0.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/musica-fabric-1.0.0.jar",
       "sha256": "a1cabd5c03fd5be3e1aafc3d387c05c713c39a89202eba84d354ab953375d601",
@@ -29,6 +39,11 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/offlineskins-1.21.1-v1a-fabric.jar",
       "sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
       "size": 101128
+    },
+    "mods/refurbished_furniture-fabric-1.21.1-1.0.16.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/refurbished_furniture-fabric-1.21.1-1.0.16.jar",
+      "sha256": "e1028d7104d37ea53cd2ad9d1943a08c9c8deafa9929e8bb4289bcc5c0fbf71c",
+      "size": 6956029
     },
     "mods/worldedit-mod-7.3.8.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/worldedit-mod-7.3.8.jar",
