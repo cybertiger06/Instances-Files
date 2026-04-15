@@ -1,54 +1,79 @@
 {
-  "version": "1.0.3",
-  "instance_name": "sandbox1",
+  "version": "1.0.4",
+  "instance_name": "Sandbox1",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
-  "loader_version": "0.17.3",
+  "loader_version": "0.18.4",
   "files": {
     "mods/alliovoicechat-fabric-1.21-2.1.8.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/alliovoicechat-fabric-1.21-2.1.8.jar",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/alliovoicechat-fabric-1.21-2.1.8.jar",
       "sha256": "67d80b2ed4bc694a54dae8e9cc44a880df3e0dc238bc85ad354d526fde829d65",
       "size": 12215569
     },
+    "mods/architectury-13.0.8-fabric.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/architectury-13.0.8-fabric.jar",
+      "sha256": "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d",
+      "size": 600915
+    },
     "mods/cinematica-fabric-1.0.0.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/cinematica-fabric-1.0.0.jar",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/cinematica-fabric-1.0.0.jar",
       "sha256": "c2de72ec0136790b128a217ce343aec49b2488e80b5c1a1916bf4ac4d4bb53ae",
       "size": 21852
     },
+    "mods/duckling-fabric-1.21-5.0.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/duckling-fabric-1.21-5.0.1.jar",
+      "sha256": "9a8edfbb119b0424e32e84d4149c8add0a71de8a37fed1b822592dbc78c8240e",
+      "size": 539620
+    },
     "mods/fabric-api-0.116.7+1.21.1.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/fabric-api-0.116.7%2B1.21.1.jar",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/fabric-api-0.116.7%2B1.21.1.jar",
       "sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
       "size": 2424884
     },
     "mods/framework-fabric-1.21.1-0.13.11.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/framework-fabric-1.21.1-0.13.11.jar",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/framework-fabric-1.21.1-0.13.11.jar",
       "sha256": "5d15360a4fffa8699562c700b5b0e97f0fd0b63006f0c1dbe2fec2b60022117d",
       "size": 1647903
     },
+    "mods/geckolib-fabric-1.21.1-4.8.2.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/geckolib-fabric-1.21.1-4.8.2.jar",
+      "sha256": "a70c334830decbb9d7cb88478a49d19d6ce823ba3356ca62034a445fef3c2d04",
+      "size": 652999
+    },
     "mods/mcw-doors-1.1.5-mc1.21.1fabric.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/mcw-doors-1.1.5-mc1.21.1fabric.jar",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/mcw-doors-1.1.5-mc1.21.1fabric.jar",
       "sha256": "36b12175ad87cefcbde35b187b9a1c5ce9e1af1471edf6c5064ebd1a8c868ef1",
       "size": 1219302
     },
+    "mods/medieval_buildings-1.21.1-1.1.1-fabric.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/medieval_buildings-1.21.1-1.1.1-fabric.jar",
+      "sha256": "0e282d42b274bad9316c17bd7af9e0f3705a66dbf231e576d4c403053dc80450",
+      "size": 375372
+    },
     "mods/musica-fabric-1.0.0.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/musica-fabric-1.0.0.jar",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/musica-fabric-1.0.0.jar",
       "sha256": "a1cabd5c03fd5be3e1aafc3d387c05c713c39a89202eba84d354ab953375d601",
       "size": 326376
     },
     "mods/offlineskins-1.21.1-v1a-fabric.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/offlineskins-1.21.1-v1a-fabric.jar",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/offlineskins-1.21.1-v1a-fabric.jar",
       "sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
       "size": 101128
     },
     "mods/refurbished_furniture-fabric-1.21.1-1.0.16.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/refurbished_furniture-fabric-1.21.1-1.0.16.jar",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/refurbished_furniture-fabric-1.21.1-1.0.16.jar",
       "sha256": "e1028d7104d37ea53cd2ad9d1943a08c9c8deafa9929e8bb4289bcc5c0fbf71c",
       "size": 6956029
     },
     "mods/worldedit-mod-7.3.8.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/sandbox1/mods/worldedit-mod-7.3.8.jar",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/worldedit-mod-7.3.8.jar",
       "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
       "size": 6222854
+    },
+    "mods/yuushya-1.21.0-fabric-2.2.3.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Sandbox1/mods/yuushya-1.21.0-fabric-2.2.3.jar",
+      "sha256": "481524ec91a6cb77d7995ea87017c6669a2ba781c8f7849630517a94fa6c8a07",
+      "size": 23385785
     }
   }
 }
