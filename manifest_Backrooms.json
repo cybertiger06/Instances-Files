@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "instance_name": "Backrooms",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -137,8 +137,8 @@
     },
     "config/iris.properties": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/iris.properties",
-      "sha256": "ffeeb279a52a030bc1341d1b927f872ae1e3ff1ff6fc2c0137d94ea2008a498f",
-      "size": 270
+      "sha256": "8eb7d0eba967319431781e7cdbf085081b00fcf529cf07f8f9a105a9fbd366fe",
+      "size": 269
     },
     "config/litematica.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/litematica.json",
@@ -167,7 +167,7 @@
     },
     "config/sodium-fingerprint.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/sodium-fingerprint.json",
-      "sha256": "1053bb316c5c8dcd2dc0d32644b482003a09495de5bb73e186278f38c6d2cc26",
+      "sha256": "f6935f052a57503b327316bdf445264f1bd68b73af590bb1d46a3a5d4d0a7719",
       "size": 427
     },
     "config/sodium-mixins.properties": {
@@ -177,13 +177,13 @@
     },
     "config/sodium-options.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/sodium-options.json",
-      "sha256": "1864f09731ec89216d008da00a87634a1b8e9579c79c2e56e13e522eb70a94f8",
-      "size": 687
+      "sha256": "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca",
+      "size": 664
     },
     "config/voicetranslation.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/voicetranslation.json",
-      "sha256": "616c6bd8c0ef7c53ebfeb79e80c5571f8c8292cf28cf4482f127c9323b369e46",
-      "size": 723
+      "sha256": "66042415688d07f61072790d328d53b06b00d7113184fdd4a3fbfda4febaec78",
+      "size": 667
     },
     "config/xaerohud.txt": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/xaerohud.txt",
@@ -207,8 +207,8 @@
     },
     "config/fabric/indigo-renderer.properties": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/fabric/indigo-renderer.properties",
-      "sha256": "c53234e249d08d688f574179a917daf577387b6cadaca79f2406eb90770754c2",
-      "size": 291
+      "sha256": "974aca410e3314a6439156c70c0b16b86b6387824a43676c498daa1cfac4e312",
+      "size": 290
     },
     "config/fancymenu/audio_element_controller_metas.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/fancymenu/audio_element_controller_metas.json",
@@ -217,8 +217,8 @@
     },
     "config/fancymenu/customizablemenus.txt": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/fancymenu/customizablemenus.txt",
-      "sha256": "418d1146d4147623000e826458bf0d601f038517ef8180e5a7a8d6fd83d6aa6f",
-      "size": 424
+      "sha256": "e33439259e7e2da4a21c55a1e93b4f74c7c557bd499f99a683ff96d777ec6626",
+      "size": 362
     },
     "config/fancymenu/custom_gui_screens.txt": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/fancymenu/custom_gui_screens.txt",
@@ -1017,7 +1017,7 @@
     },
     "config/plasmovoice/meta_cache.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/plasmovoice/meta_cache.json",
-      "sha256": "9f80a5d05c2ccea2dc13096e9cda8fbb55135858352f83fe7da5dc64b7abf5c4",
+      "sha256": "fbc037688401cb187384fa5513c320ec58818827882e00303e4e2fddc2942d5e",
       "size": 1309
     },
     "config/plasmovoice/server/config.toml": {
@@ -1182,8 +1182,8 @@
     },
     "config/worldedit/worldedit.properties": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/worldedit.properties",
-      "sha256": "379810d6dba11712efa9ede7bfc01a63dae62fb56cc42bc0e73a01c68956c604",
-      "size": 2547
+      "sha256": "1f70f435b77e8d0ac6d0f1519f09d70f9e0234d80fa413a69f5713c65fa57557",
+      "size": 2546
     },
     "config/worldedit/sessions/2e82d582-c5dd-44a0-887e-e13661fc2866.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/config/worldedit/sessions/2e82d582-c5dd-44a0-887e-e13661fc2866.json",
@@ -2794,6 +2794,11 @@
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/shaderpacks/BSL_v10.1.1.zip",
       "sha256": "131ca6b56b100e60577ffdb0dd51bfab2ee6e334564eeee324e5422026891668",
       "size": 1125052
+    },
+    "options.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/Backrooms/options.txt",
+      "sha256": "6f66f7a1197287f35e1d3a00e05bddb50d51b5b112327ebe47df7e4bb1c93bfb",
+      "size": 3939
     }
   }
 }

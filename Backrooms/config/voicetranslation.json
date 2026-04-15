@@ -1,6 +1,6 @@
 {
   "whisperApiUrl": "https://api.groq.com/openai/v1/audio/transcriptions",
-  "whisperApiKey": "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",
+  "whisperApiKey": "",
   "whisperModel": "whisper-large-v3-turbo",
   "translationApiUrl": "https://libretranslate.com/translate",
   "translationApiKey": "",
