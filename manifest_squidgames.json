@@ -1,0 +1,114 @@
+{
+  "version": "1.0.0",
+  "instance_name": "Squid Games",
+  "minecraft_version": "1.21.1",
+  "loader": "fabric",
+  "loader_version": "0.18.4",
+  "files": {
+    "mods/alliovoicechat-fabric-1.21-2.1.8.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/alliovoicechat-fabric-1.21-2.1.8.jar",
+      "sha256": "f7bde81d23c9ce05f277d59d35bce1bc91f2d1b90832431a276d10298b1005e0",
+      "size": 12219007
+    },
+    "mods/chatworking-1.02.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/chatworking-1.02.0.jar",
+      "sha256": "8b3167ed6ceb9ec97837ea5b7084c623d9cc56126e1eefa875b9004f6cec8e1c",
+      "size": 5100
+    },
+    "mods/cinematica-fabric-1.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/cinematica-fabric-1.0.0.jar",
+      "sha256": "c2de72ec0136790b128a217ce343aec49b2488e80b5c1a1916bf4ac4d4bb53ae",
+      "size": 21852
+    },
+    "mods/CMDCam-Fabric-new.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/CMDCam-Fabric-new.jar",
+      "sha256": "242c4260e50337d88cd7ab18845b404bd5cd61133dde78bf5de1e75ac5705ccc",
+      "size": 182095
+    },
+    "mods/CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar",
+      "sha256": "c07f322040671f7708a51cda16b81375b24cf313669ebd562e0e8dd4ff4ed3eb",
+      "size": 1239340
+    },
+    "mods/DistantHorizons-2.4.2-b-1.21.1-fabric-neoforge.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/DistantHorizons-2.4.2-b-1.21.1-fabric-neoforge.jar",
+      "sha256": "e410c2eab1c2ace23499f457737e97429524c48cd17c92495b833f23df7b29e6",
+      "size": 25491887
+    },
+    "mods/dollmod-3.0.7.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/dollmod-3.0.7.jar",
+      "sha256": "8ed1cf7760884ab588c9945492e00f9c9685eda9b374668d9a9c8da1d9977606",
+      "size": 49046693
+    },
+    "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
+      "sha256": "44784c6b8423ba5fcffd8ba81dff27479a39bc8eb6e48bb4ef04126a0d9d4086",
+      "size": 235272
+    },
+    "mods/fabric-api-0.116.7+1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/fabric-api-0.116.7%2B1.21.1.jar",
+      "sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
+      "size": 2424884
+    },
+    "mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar",
+      "sha256": "f069dc8d0fc89f6b321f871eea3ddc333962b9bb225e967fcea35825ee1fe659",
+      "size": 3618632
+    },
+    "mods/geckolib-fabric-1.21.1-4.8.2.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/geckolib-fabric-1.21.1-4.8.2.jar",
+      "sha256": "a70c334830decbb9d7cb88478a49d19d6ce823ba3356ca62034a445fef3c2d04",
+      "size": 652999
+    },
+    "mods/konkrete_fabric_1.9.9_MC_1.21.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
+      "size": 786695
+    },
+    "mods/melody_fabric_1.0.10_MC_1.21.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
+      "size": 188035
+    },
+    "mods/musica-fabric-1.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/musica-fabric-1.0.0.jar",
+      "sha256": "a1cabd5c03fd5be3e1aafc3d387c05c713c39a89202eba84d354ab953375d601",
+      "size": 326376
+    },
+    "mods/NoFog-1.21-1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/NoFog-1.21-1.21.1.jar",
+      "sha256": "b11a9e771ff424d7439a910c1515611d1921042621bf52ad29ffc061a3731b4d",
+      "size": 5423
+    },
+    "mods/offlineskins-1.21.1-v1a-fabric.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/offlineskins-1.21.1-v1a-fabric.jar",
+      "sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
+      "size": 101128
+    },
+    "mods/pv-addon-broadcast-1.1.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/pv-addon-broadcast-1.1.0.jar",
+      "sha256": "3c4e39582d7b7236129a9cca42412d5faefd1ba54f2e637ed1027c0791f31d08",
+      "size": 58461
+    },
+    "mods/pv-addon-spectator-1.1.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/pv-addon-spectator-1.1.0.jar",
+      "sha256": "64703efc3e8521a915fd1e840e522852f15aaccacaf202fc77c7c0229c646fda",
+      "size": 13188
+    },
+    "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
+      "sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
+      "size": 1297761
+    },
+    "mods/vanish-1.6.5+1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/vanish-1.6.5%2B1.21.1.jar",
+      "sha256": "b0562a7e91ad8ffecffeec3732210bfce7e352188b8cd3e3e359dca730601360",
+      "size": 1247423
+    },
+    "mods/worldedit-mod-7.3.8.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/worldedit-mod-7.3.8.jar",
+      "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
+      "size": 6222854
+    }
+  }
+}
