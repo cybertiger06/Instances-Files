@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "instance_name":  "Squid Games",
     "minecraft_version":  "1.21.1",
     "loader":  "fabric",
@@ -177,7 +177,7 @@
                                                              },
                   "config/fabric/indigo-renderer.properties":  {
                                                                    "url":  "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/fabric/indigo-renderer.properties",
-                                                                   "sha256":  "235968e2664a59269a3fb300ed62b1a1f4aece1e38062a8606296e8bc331bfe1",
+                                                                   "sha256":  "c36dd837386551470316832810752d9b08928bc47d4d0a70afd424a3951e1e69",
                                                                    "size":  291
                                                                },
                   "config/fancymenu/customizablemenus.txt":  {
@@ -472,7 +472,7 @@
                                                      },
                   "config/plasmovoice/meta_cache.json":  {
                                                              "url":  "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/plasmovoice/meta_cache.json",
-                                                             "sha256":  "8732f51bf57464f844c1c0383664fdf0606ff4d15e6ae6e76b6df01fbcbb4fab",
+                                                             "sha256":  "0dc8ca06c3ac3f3a1d822c27cc1e94efbc6ca2a5d67fa7ab2b4a41279f1496bf",
                                                              "size":  1309
                                                          },
                   "config/plasmovoice/server/config.toml":  {
@@ -2069,6 +2069,11 @@
                                       "url":  "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/options.txt",
                                       "sha256":  "e4b4da067b8f8cc5a40f900c1f7692824c5affaebb7843b83caf8b2b83084b9a",
                                       "size":  4460
+                                  },
+                  "servers.dat":  {
+                                      "url":  "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/servers.dat",
+                                      "sha256":  "2796cb9a90c4ddbf42d14b497f1ba15ef881c02b5f98fcb2615f6350aed4fd8f",
+                                      "size":  4439
                                   }
               }
 }
