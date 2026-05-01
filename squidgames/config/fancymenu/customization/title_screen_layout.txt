@@ -45,7 +45,7 @@ layout_action_executable_blocks {
 
 element {
   button_element_executable_block_identifier = 940f84d8-41e1-4ca8-9228-e208d72609f6-1773932908609
-  [executable_action_instance:668bfd0e-bc88-4520-b3b0-5e2d581f47c2-1773933883372][action_type:joinserver] = 64.95.151.120:25567
+  [executable_action_instance:668bfd0e-bc88-4520-b3b0-5e2d581f47c2-1773933883372][action_type:joinserver] = 64.95.151.138:25567
   [executable_block:940f84d8-41e1-4ca8-9228-e208d72609f6-1773932908609][type:generic] = [executables:668bfd0e-bc88-4520-b3b0-5e2d581f47c2-1773933883372;]
   backgroundnormal = [source:local]/config/fancymenu/assets/jugar.png
   backgroundhovered = [source:local]/config/fancymenu/assets/playhover.png

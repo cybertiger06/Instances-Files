@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "instance_name":  "Squid Games",
     "minecraft_version":  "1.21.1",
     "loader":  "fabric",
@@ -382,7 +382,7 @@
                                                                                      },
                   "config/fancymenu/customization/title_screen_layout.txt":  {
                                                                                  "url":  "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/fancymenu/customization/title_screen_layout.txt",
-                                                                                 "sha256":  "1b0f656cbd4d79567298d3b4d6f777a1cf14db758871e554491f2786ee2f2b0c",
+                                                                                 "sha256":  "6f82f7d8db6d59f2382060fca5ef6119cb41f85c7ce4b5ce62730caeacad2836",
                                                                                  "size":  31719
                                                                              },
                   "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget":  {
@@ -2072,7 +2072,7 @@
                                   },
                   "servers.dat":  {
                                       "url":  "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/servers.dat",
-                                      "sha256":  "2796cb9a90c4ddbf42d14b497f1ba15ef881c02b5f98fcb2615f6350aed4fd8f",
+                                      "sha256":  "23f794e3c4a43de6e8c2bbad2cb41be2dd5898ef82b3936d8e09dfdb2dbaf133",
                                       "size":  4439
                                   }
               }
