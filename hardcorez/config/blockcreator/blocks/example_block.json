@@ -1,0 +1,9 @@
+{
+  "id": "example_block",
+  "name": "Example Block",
+  "texture": "example_block.png",
+  "hardness": 1.5,
+  "resistance": 6.0,
+  "luminance": 0,
+  "sound": "stone"
+}

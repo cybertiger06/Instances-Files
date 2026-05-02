@@ -1,0 +1,15 @@
+Vanilla Tweaks Resource Pack
+Version: 1.21
+Packs:
+	DarkUI
+	BushyLeaves
+	ColoredGlintRed
+	SlimesRed
+	ConcreteRedBG
+	ColoredWidgetsRed
+	ColoredHotbarSelLime
+	MoreCrosshairs-4AngledDot
+	PingColorIndicator
+	WavyLeaves
+	UniversalLushGrass
+	CircularSunandMoon
