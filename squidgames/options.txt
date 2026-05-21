@@ -49,7 +49,7 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","file/SquidGame_ResourcePack"]
-incompatibleResourcePacks:["cmdcam","drippyloadingscreen","fancymenu","konkrete","worldedit"]
+incompatibleResourcePacks:["cmdcam","drippyloadingscreen","fancymenu","konkrete","veil","worldedit"]
 lastServer:
 lang:es_es
 chatVisibility:0
@@ -142,6 +142,7 @@ key_key.point9:key.keyboard.keypad.9
 key_key.dollmod.open_spectator_panel:key.keyboard.f
 key_key.dollmod.open_sound_panel:key.keyboard.g
 key_key.plasmovoice.settings:key.keyboard.v
+key_key.veil.editor:key.keyboard.unknown
 soundCategory_master:0.6724006622516556
 soundCategory_music:0.0
 soundCategory_record:1.0
