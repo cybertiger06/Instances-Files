@@ -1,9 +1,9 @@
 {
-  "version": "2026-05-21_dollmod-3.0.7",
-  "instance_name": "Squid Games Instace",
+  "version": "1.0.0",
+  "instance_name": "squidgames",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
-  "loader_version": "0.18.4",
+  "loader_version": "0.17.3",
   "files": {
     "mods/alliovoicechat-fabric-1.21-2.1.8.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/mods/alliovoicechat-fabric-1.21-2.1.8.jar",
@@ -35,10 +35,10 @@
       "sha256": "e410c2eab1c2ace23499f457737e97429524c48cd17c92495b833f23df7b29e6",
       "size": 25491887
     },
-    "mods/dollmod-3.0.7.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/mods/dollmod-3.0.7.jar",
-      "sha256": "fd974399ee63558768f79c4c9f780178a8f12c1fbb0547bcdbcdd23fdca3dc80",
-      "size": 48121607
+    "mods/dollmod-3.0.8.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/mods/dollmod-3.0.8.jar",
+      "sha256": "92ca1bf3a28a50a252faf88eb38bee15c40ea9e21294463b5d9b90cea116ac71",
+      "size": 88728583
     },
     "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
@@ -145,6 +145,16 @@
       "sha256": "f0b51bfb593d37f5721d35dd815e74dee28df134b37c8cc287e9c05d5636d70e",
       "size": 255
     },
+    "config/litematica.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/litematica.json",
+      "sha256": "bfded577c7ed253c3c15da9a8f610dfe25f2254fd1943c86337fb6005d2daacd",
+      "size": 10693
+    },
+    "config/malilib.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/malilib.json",
+      "sha256": "d375c3c93c77e4b9b871477009c2ab6a3564470e839597ee2cf5a0a5218eb9e0",
+      "size": 675
+    },
     "config/offlineskins.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/offlineskins.json",
       "sha256": "b84921e870e82005697911c5de6ca299ce37522b93aa59328b2312573d1f46d1",
@@ -182,7 +192,7 @@
     },
     "config/fabric/indigo-renderer.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/fabric/indigo-renderer.properties",
-      "sha256": "e24ee3ec73765a9362dd3f18769bbfe2ded6729174b1b9b1b8e1e395170fa0e4",
+      "sha256": "d038ba7c3dea9d6753c4063cd6cb548933a7de68296dc3530117c152935f7703",
       "size": 291
     },
     "config/fancymenu/customizablemenus.txt": {
@@ -224,6 +234,11 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/fancymenu/assets/alliologo.png",
       "sha256": "e4f63b0a7a1d89cd842068495555806f7de38dc021751ee44f81ee46b69188ea",
       "size": 86475
+    },
+    "config/fancymenu/assets/alliologosolo.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/fancymenu/assets/alliologosolo.png",
+      "sha256": "5eccfa5d44a92d9b7573d6cdd581199648e1be6c62c729fbc0f8b6161d177021",
+      "size": 40727
     },
     "config/fancymenu/assets/back.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/fancymenu/assets/back.png",
@@ -269,6 +284,11 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/fancymenu/assets/fondovdos.png",
       "sha256": "674a7575ecb946bb6d94e635112a2afcc685c14f6f8ea9f6d57344d5701607be",
       "size": 23156
+    },
+    "config/fancymenu/assets/font.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/fancymenu/assets/font.png",
+      "sha256": "f46aabb6c8d6fed15bb45b045c5170374d233a078818eb02d9bbeb4ea12789e0",
+      "size": 818707
     },
     "config/fancymenu/assets/icon.icns": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/fancymenu/assets/icon.icns",
@@ -387,18 +407,18 @@
     },
     "config/fancymenu/customization/options_screen_layout_1.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/fancymenu/customization/options_screen_layout_1.txt",
-      "sha256": "aaf45d7604cdd5ebdcdd82833810ac4b71569968339cd548aff9f45d8f4642c8",
+      "sha256": "38c3d6a267d3a5e0031d2d2b4be487d6b3e287fee9f8bedf20a14d7a63d0ce7b",
       "size": 30557
     },
     "config/fancymenu/customization/pause_screen_hardocrebetrat.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/fancymenu/customization/pause_screen_hardocrebetrat.txt",
-      "sha256": "bd504ef802ae8b508e1b3d51a26a3135dec06942c274ad9507e38d98294e727e",
-      "size": 25464
+      "sha256": "9d7e5ab724ffacc26b793b3670bee09da67c633fcaa5029ed247b6c4cd34eea9",
+      "size": 25135
     },
     "config/fancymenu/customization/title_screen_layout.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/fancymenu/customization/title_screen_layout.txt",
-      "sha256": "317dc3a1a1be8c5170048d1816618b10e7e0bd74823de4298aee2bfa562b2e3b",
-      "size": 31725
+      "sha256": "2e8f92ee48f441cb8d52891b5e7c5d2af645db895e22f0f0bf6a4e075e4a9249",
+      "size": 31436
     },
     "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
@@ -480,14 +500,24 @@
       "sha256": "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
       "size": 322
     },
+    "config/litematica/litematica_64.95.151.138_25567.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/litematica/litematica_64.95.151.138_25567.json",
+      "sha256": "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e",
+      "size": 95
+    },
+    "config/litematica/litematica_64.95.151.138_25567_dim_minecraft_overworld.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/litematica/litematica_64.95.151.138_25567_dim_minecraft_overworld.json",
+      "sha256": "393a6ae88f2e5404667e6ac1e93004b5d590af22e29786a3216eac512774cb0b",
+      "size": 1901
+    },
     "config/plasmovoice/client.toml": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/plasmovoice/client.toml",
-      "sha256": "39842540911aa72aac4c4ae01f5463dd7d4817634b3e50fdc2584cc7388a15dd",
-      "size": 1538
+      "sha256": "c8b00930b18e7cab5665fd512bdf17b4daa97fb6a507e7f5831a9eb31a8c9f90",
+      "size": 1569
     },
     "config/plasmovoice/meta_cache.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/config/plasmovoice/meta_cache.json",
-      "sha256": "f342c32bca64a4c67101be1640e399cae495eb5f5fcfd202419fd83f526f867e",
+      "sha256": "511b5d99cf250bf67eff705fb1905fd1a259811a629eb39426b448fcb7178d9b",
       "size": 1309
     },
     "config/plasmovoice/server/config.toml": {
@@ -974,6 +1004,16 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/barrel_top_open.png",
       "sha256": "9ec5e3b0f8a6b4d7e17a4b4bd8184643bdffc1ee5395359ffd9ac4f1272d047b",
       "size": 202
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/birch_door_bottom.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/birch_door_bottom.png",
+      "sha256": "c2ecbd868289ac650a9c5616d19365e0e63e53bb009712cfd504cf40b912417a",
+      "size": 301
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/birch_door_top.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/birch_door_top.png",
+      "sha256": "70ca91bd3ae3d5d56bb32220a739e9a72b37f913bf827a3934bf11d985ca002e",
+      "size": 358
     },
     "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/birch_planks.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/birch_planks.png",
@@ -2045,15 +2085,10 @@
       "sha256": "bba7799f724d98d1c8f18df1d5ad8315b4b7569aba16dbcdf561b41e7615dd65",
       "size": 385
     },
-    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/leather_boots.png": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/leather_boots.png",
-      "sha256": "4e0f458e027fa5a09c25256292f002340ba95a2500850bd86b4cf12b0fe51ccb",
-      "size": 315
-    },
     "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/leather_chestplate.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/leather_chestplate.png",
-      "sha256": "4e0f458e027fa5a09c25256292f002340ba95a2500850bd86b4cf12b0fe51ccb",
-      "size": 315
+      "sha256": "dc53814a266c999fd0f7a969c28d00e3ac19b582310d2720e803846c0c0d7ff1",
+      "size": 429
     },
     "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/netherite_boots.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/netherite_boots.png",
@@ -2110,6 +2145,16 @@
       "sha256": "fb87fc655ecfcba4479c57bb54bc802975191191f2b282942bf7cdeba11790aa",
       "size": 1084
     },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/leather_layer_1.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/leather_layer_1.png",
+      "sha256": "69030b0c4ec8e831ffeab854f12dddc0259c763120d1fb343c5b3e09dbc54eb4",
+      "size": 1623
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/leather_layer_2.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/leather_layer_2.png",
+      "sha256": "42236b15b05512301cb9c93ea3d082c689a42e06716e9f80e6c8ccaaaa2cfe8f",
+      "size": 1610
+    },
     "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/netherite_layer_1.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/netherite_layer_1.png",
       "sha256": "23661dd10c954e80d7cb3f5e3e8195ce15025c55d0b6b366a37f52ac6bcabe78",
@@ -2127,8 +2172,8 @@
     },
     "options.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/options.txt",
-      "sha256": "92922cda03722134ab3928c823863c81c92727be3fc883f60d1d83456763f1e1",
-      "size": 4509
+      "sha256": "c4c9b97d1cb609a36c48cb2a1e712a2d30523a0a522f678037c9ea56ae80f1c8",
+      "size": 4510
     }
   }
 }
