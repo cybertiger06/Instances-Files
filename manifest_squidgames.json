@@ -1,11 +1,12 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "instance_name": "squidgames",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.17.3",
   "encrypted": true,
   "delete": [
+    "mods/dollmod-3.0.10.jar",
     "mods/dollmod-3.0.9.jar",
     "mods/dollmod-3.0.8.jar",
     "mods/dollmod-3.0.3.jar",
@@ -69,13 +70,13 @@
       "plain_sha256": "e410c2eab1c2ace23499f457737e97429524c48cd17c92495b833f23df7b29e6",
       "plain_size": 25491887
     },
-    "mods/dollmod-3.0.10.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/dollmod-3.0.10.jar.enc",
+    "mods/dollmod-3.0.11.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/dollmod-3.0.11.jar.enc",
       "enc": true,
-      "sha256": "2fdca743a2498f8b155eebc3844e42aba7d0a3c0f8325deb72ae616792ae0f7d",
-      "size": 92706786,
-      "plain_sha256": "b97a0a3bbe7b8113f63734f77179e630cca0ed6f8101944cd045dabc45189813",
-      "plain_size": 92706749
+      "sha256": "27f023ed0873a0363b24798bd077820c270aea5f894c9d8e056a927d805fc9bc",
+      "size": 92709955,
+      "plain_sha256": "abe0f4a4efd4b2b7599288056bedc815ce52b55741fa5f8a3dba61a44bac7a5a",
+      "plain_size": 92709918
     },
     "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar.enc",
@@ -240,10 +241,10 @@
     "config/dollmod.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/config/dollmod.json.enc",
       "enc": true,
-      "sha256": "96b60ad85cbbe0ac170c82a1da17a78ffb9d3b3b2abdb36ecf33872ce170b572",
-      "size": 292,
-      "plain_sha256": "f0b51bfb593d37f5721d35dd815e74dee28df134b37c8cc287e9c05d5636d70e",
-      "plain_size": 255
+      "sha256": "6883dfcf0ef4e85a48d7e880c0160d90b927c5053b8a7b45bcbff4c04840ff9d",
+      "size": 451,
+      "plain_sha256": "803cabcc68d63b06698502d5ea4a762535a6eb5b914f39b1733d2e6c0911c1b0",
+      "plain_size": 414
     },
     "config/drippyloadingscreen/options.txt": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/config/drippyloadingscreen/options.txt.enc",
@@ -256,9 +257,9 @@
     "config/fabric/indigo-renderer.properties": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/config/fabric/indigo-renderer.properties.enc",
       "enc": true,
-      "sha256": "d73304cc73e54851935d8159bd099528fb872bc09ee6cb113bfead501cf2059c",
+      "sha256": "24ff2751a21801359e2ca71621f78989d0df42d33ce8ab367dddfd458954e04e",
       "size": 328,
-      "plain_sha256": "27e05c1798e5a13c4e443d7d605ba192f3d5346e5e0a9cccaae6812b79c6341a",
+      "plain_sha256": "947e805a26364c22bd57c293f325f2adf7760b3a37c018bb444b6fc33a390897",
       "plain_size": 291
     },
     "config/fancymenu/assets/alliologo.png": {
@@ -1104,7 +1105,7 @@
     "config/watermedia/custom_vlc_path.txt": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/config/watermedia/custom_vlc_path.txt.enc",
       "enc": true,
-      "sha256": "5293cd1a93d6f42e65305a5617a31267939ba600cb509b3274c7c8cdc6ddabf0",
+      "sha256": "b75323a8505e23fbf3b0818f2609db5eaa5c192380b7f18934a06367c80b205e",
       "size": 37,
       "plain_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "plain_size": 0
@@ -3559,8 +3560,8 @@
     },
     "options.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/squidgames/options.txt",
-      "sha256": "92922cda03722134ab3928c823863c81c92727be3fc883f60d1d83456763f1e1",
-      "size": 4509
+      "sha256": "c4c9b97d1cb609a36c48cb2a1e712a2d30523a0a522f678037c9ea56ae80f1c8",
+      "size": 4510
     }
   }
 }
