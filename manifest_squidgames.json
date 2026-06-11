@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "instance_name": "squidgames",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -11,7 +11,8 @@
     "mods/dollmod-3.0.8.jar",
     "mods/dollmod-3.0.3.jar",
     "mods/plasmovoice-fabric-1.21-2.1.8.jar",
-    "mods/vanish-1.5.7+1.21.1.jar"
+    "mods/vanish-1.5.7+1.21.1.jar",
+    "mods/dalgona-mod-1.0.0.jar"
   ],
   "files": {
     "mods/alliovoicechat-fabric-1.21-2.1.8.jar": {
@@ -54,13 +55,13 @@
       "plain_sha256": "c07f322040671f7708a51cda16b81375b24cf313669ebd562e0e8dd4ff4ed3eb",
       "plain_size": 1239340
     },
-    "mods/dalgona-mod-1.0.0.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/dalgona-mod-1.0.0.jar.enc",
+    "mods/dalgona-mod-2.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/dalgona-mod-2.0.0.jar.enc",
       "enc": true,
-      "sha256": "17a44480b428557cad632accde1ab35bbe74d674241ea36ac0d0cde17d601d16",
-      "size": 1150817,
-      "plain_sha256": "b3d78991c481cd9c795b702c2cd4f1a1dc22901f3505b4c974ed1650fd2dac9a",
-      "plain_size": 1150780
+      "sha256": "2131a952ae3f4c0d9d5822ad5d4f1a6460640b6364cb8b7ea53ad21af66ff5ff",
+      "size": 1150756,
+      "plain_sha256": "c114c3eebc8ddd31de7f48462fb3371308464480481af1651b588f47da7f2cbe",
+      "plain_size": 1150719
     },
     "mods/DistantHorizons-2.4.2-b-1.21.1-fabric-neoforge.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/mods/DistantHorizons-2.4.2-b-1.21.1-fabric-neoforge.jar.enc",
@@ -1105,7 +1106,7 @@
     "config/watermedia/custom_vlc_path.txt": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/squidgames/config/watermedia/custom_vlc_path.txt.enc",
       "enc": true,
-      "sha256": "b75323a8505e23fbf3b0818f2609db5eaa5c192380b7f18934a06367c80b205e",
+      "sha256": "a3d36ae474b616570970f8fdeb626fc27ca54b2575f32b7909197e34413092a9",
       "size": 37,
       "plain_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "plain_size": 0
