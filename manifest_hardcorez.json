@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "2026.10.05.145456",
   "instance_name": "HardcoreZ",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -76,19 +76,9 @@
       "size": 5423
     },
     "mods/offlineskins-1.21.1-v1a-fabric.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/hardcorez/mods/offlineskins-1.21.1-v1a-fabric.jar",
-      "sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
-      "size": 101128
-    },
-    "mods/pv-addon-broadcast-1.1.0.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/hardcorez/mods/pv-addon-broadcast-1.1.0.jar",
-      "sha256": "3c4e39582d7b7236129a9cca42412d5faefd1ba54f2e637ed1027c0791f31d08",
-      "size": 58461
-    },
-    "mods/pv-addon-spectator-1.1.0.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/hardcorez/mods/pv-addon-spectator-1.1.0.jar",
-      "sha256": "64703efc3e8521a915fd1e840e522852f15aaccacaf202fc77c7c0229c646fda",
-      "size": 13188
+      "sha256": "a798be373b3912a1eb6d9a7f127d16726fa9ddd1d33bfe99b4fac96674c93326",
+      "size": 92613,
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-voice-skins-20261005/legacy-730d3f276535dde0-offlineskins.jar"
     },
     "mods/sodium-fabric-0.6.0+mc1.21.1.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/hardcorez/mods/sodium-fabric-0.6.0%2Bmc1.21.1.jar",
@@ -4375,227 +4365,227 @@
       "sha256": "26b70726f41de21f0ca252c329c454798012874ca085f61e3b6f62a7e36bd205",
       "size": 1289
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/pack.mcmeta": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/pack.mcmeta": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/pack.mcmeta",
       "sha256": "fd392058c19e3bb1f499729895466b671895656872494e545ff033d48b3a68a1",
       "size": 303
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/pack.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/pack.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/pack.png",
       "sha256": "709ea471c0f2e0793cb14dc13581853fc701636ca901b919b189d2e25ae453c1",
       "size": 907
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/README.txt": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/README.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/README.txt",
       "sha256": "17a5cebb86538a73c50192b526fbf24ab82b32fab65f30451419612e9417c542",
       "size": 534
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/font/default.json": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/font/default.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/font/default.json",
       "sha256": "56715a37d04ca596fa19a5f8b1bae8692ee7cd3421da49df2ca9271525b9a2f6",
       "size": 9616
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/animal_amphibian.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/animal_amphibian.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/animal_amphibian.png",
       "sha256": "8c4ab8d381a1ff4f7000039cf41eee4c1546521858ea7b2d80099b5d8001b9f8",
       "size": 275
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/animal_mammal.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/animal_mammal.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/animal_mammal.png",
       "sha256": "b6f40252f86c0dd32331a72ff14df8407f630e032836989a22d95f8ab4cc5162",
       "size": 2190
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/animal_reptile.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/animal_reptile.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/animal_reptile.png",
       "sha256": "a71b3d96fc622284cc5a35215d09bb3433d34331f8b5b8cca07b5db5eafab986",
       "size": 953
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/award_medal.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/award_medal.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/award_medal.png",
       "sha256": "84b54bd8814dea7800d481dcb186c9952a2bc394525a26f7cc1ba6e3d157d89e",
       "size": 604
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/body_parts.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/body_parts.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/body_parts.png",
       "sha256": "46390d85fcb1183bc0c05f8ddfe1d05b02d78de1d39e56559e8c8f3eff7b012f",
       "size": 1724
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/cat_face.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/cat_face.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/cat_face.png",
       "sha256": "42e58137cd34c21f2ca8633724e0561e3f87f1f603ec1aafa7b4a6ca8caaeaf4",
       "size": 708
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/emotion.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/emotion.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/emotion.png",
       "sha256": "2aa5a0ce08f601f91f485ac447c35648ade29e4a058b45d050271a85f4e83a7e",
       "size": 1130
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/event.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/event.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/event.png",
       "sha256": "75413827a8902b2b1b27f75ba551b5d802dcb11c886ced37310e2ae97e465b52",
       "size": 2973
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/face_affection.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/face_affection.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/face_affection.png",
       "sha256": "6216e9f24456de726c520368897ffc41e1c59275daa1f553e580ad41404d1ebc",
       "size": 804
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/face_concerned.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/face_concerned.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/face_concerned.png",
       "sha256": "e4fa43d5da7fa33181c8c34f3eaf9fbdb8a25adbcb9126f8163065db3ee99784",
       "size": 1739
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/face_costume.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/face_costume.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/face_costume.png",
       "sha256": "173b62e43cded1034f703060299a82a4151bfe39b3ef86923d4f7e8562963246",
       "size": 1343
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/face_glasses.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/face_glasses.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/face_glasses.png",
       "sha256": "0beee646808ef19661b9c0ba0db0768c4ac96c520c64d6c5c623c328411fe6b6",
       "size": 425
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/face_hand.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/face_hand.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/face_hand.png",
       "sha256": "fc75543868ac2798284837d57019e6739a6a71401ac6bb2c492d05c73aded771",
       "size": 878
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/face_hat.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/face_hat.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/face_hat.png",
       "sha256": "d07e1419874c9f8a9f4d063bfffd517c3bf4e49eefc7cd7f40ecd9940334cebc",
       "size": 589
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/face_negative.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/face_negative.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/face_negative.png",
       "sha256": "d681c8af513d0576e6afdbb5560705a06575ae6083b9c94ff2748d8c81476d5a",
       "size": 1032
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/face_neutral_skeptical.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/face_neutral_skeptical.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/face_neutral_skeptical.png",
       "sha256": "0e6758b07b5f7497fd891357e67f87b1ca3d86f4e8e2b31a2cab3fb922695b56",
       "size": 892
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/face_sleepy.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/face_sleepy.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/face_sleepy.png",
       "sha256": "4d800a032f0ca7428eec1a8ffb37fadb77c2d99089f97a4a2a54094506e4d3c8",
       "size": 611
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/face_smiling.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/face_smiling.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/face_smiling.png",
       "sha256": "2d62e719cf2408343015e4503bbf661c22ac85ba51f812f9d06f28f0fc98c00c",
       "size": 899
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/face_tongue.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/face_tongue.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/face_tongue.png",
       "sha256": "f87753c73ee4d1f2fe70ef961bd82330a686f0bda022bffc186c815448630e8b",
       "size": 545
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/face_unwell.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/face_unwell.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/face_unwell.png",
       "sha256": "96bcc31a8fe1ab4e3eb6083856f1d7680145379a35cd5e3b8b96874c21a35a26",
       "size": 1576
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/flag.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/flag.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/flag.png",
       "sha256": "4eda017d6da6efbef3c17806179cdcf7ee99bf6dcbb8fd0dc3333bbb29e76fb6",
       "size": 518
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/food_prepared.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/food_prepared.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/food_prepared.png",
       "sha256": "2c107fbad8f8aa65077665625f244a8ae9863d4ab0a11a047fee883a5e68f2e1",
       "size": 3915
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/geometric.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/geometric.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/geometric.png",
       "sha256": "c1492d01671c378d5761256a07a4885d2a7898d3dad571c12abc89d9ca5c0e9f",
       "size": 2749
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/hair_style.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/hair_style.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/hair_style.png",
       "sha256": "6eba155ae572b2b991a7b148c8ea35584fe834f5ecd6b6095c4d6c0991a3d7fc",
       "size": 436
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/hands.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/hands.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/hands.png",
       "sha256": "b361e23a803f683ca5cabab5a68bbc017affba0ea46b16e4df25eea0da8bb343",
       "size": 620
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/hand_fingers_closed.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/hand_fingers_closed.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/hand_fingers_closed.png",
       "sha256": "8d46032bc6a6e884c5490a594943e57d79a10b413857fedb65ab31a81fd39fc3",
       "size": 515
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/hand_fingers_open.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/hand_fingers_open.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/hand_fingers_open.png",
       "sha256": "2c484cf4e47c781330b089a1139a34dd89e9e7f412fe05d231d6b2884cc01099",
       "size": 684
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/hand_fingers_partial.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/hand_fingers_partial.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/hand_fingers_partial.png",
       "sha256": "2033ea35549a64f39073b912eb6b3830d349858d83c7d399ed3d3ef39afd37b4",
       "size": 658
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/hand_prop.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/hand_prop.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/hand_prop.png",
       "sha256": "fe0c26fdcfb2829b14725199b50a902e8539b64a9ae09f20abfcec514c4f23a9",
       "size": 455
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/hand_single_finger.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/hand_single_finger.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/hand_single_finger.png",
       "sha256": "4aa0fe2b53e7d700ae35a071315bd01ef8f3d94432c593617882855721ca0307",
       "size": 561
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/heart.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/heart.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/heart.png",
       "sha256": "3bb0f4786287967d5549364a257ccca9a6d6653ff7e34a5a6059cec682ea333b",
       "size": 2017
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/heart_on_fire_mending_heart.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/heart_on_fire_mending_heart.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/heart_on_fire_mending_heart.png",
       "sha256": "fc7c8bd2842ff4b1805faaf8181161b8625c3a696b112eb5cbdd7d6f93a9eaf8",
       "size": 336
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/hotel.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/hotel.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/hotel.png",
       "sha256": "863bb97fcc374d7347d8a9ea3f04431368dee70e38129858eb4b74de17208407",
       "size": 391
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/monkey_face.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/monkey_face.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/monkey_face.png",
       "sha256": "89953cf62319203e86834abf5b976b70dc5e025e55cca5e5aa1408d9f6b01cdd",
       "size": 414
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/person_symbol.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/person_symbol.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/person_symbol.png",
       "sha256": "3a30badd52517e75a81e7c0b0d8ab6851814990a841dbd068e2ea0fd677f84d9",
       "size": 708
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/plant_flower.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/plant_flower.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/plant_flower.png",
       "sha256": "31f1412755e876cb0d0846e75db7ae8cffded46ccec87711ba1b887611b39509",
       "size": 1737
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/sky_weather.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/sky_weather.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/sky_weather.png",
       "sha256": "992507b2bab9bac2ed400aaa25d6109b88c708bda364d9803395ba2ee391132e",
       "size": 4270
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/sport.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/sport.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/sport.png",
       "sha256": "3f7b0954462169cd144da9d4c0fedeaafb2b5b30792054742521593390b17f5e",
       "size": 3026
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/time.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/time.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/time.png",
       "sha256": "54ddc2d42cca5b12ad3613533ddf407f266271b64d93dc00efa7d295018b25d0",
       "size": 1644
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/transport_air.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/transport_air.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/transport_air.png",
       "sha256": "240824cd2f4d9e7bc2ef0f9ef9f4c1ac9cf07ede11d808c8c7a36cbac133d668",
       "size": 1643
     },
-    "resourcepacks/§b§lAllure Emoji Pack§r§0/assets/minecraft/textures/font/transport_water.png": {
+    "resourcepacks/\u00a7b\u00a7lAllure Emoji Pack\u00a7r\u00a70/assets/minecraft/textures/font/transport_water.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/hardcorez/resourcepacks/%C2%A7b%C2%A7lAllure%20Emoji%20Pack%C2%A7r%C2%A70/assets/minecraft/textures/font/transport_water.png",
       "sha256": "838700ec50f57be4b7531c726d9e60f1c2bfb69c525f34791d45480339d8a56f",
       "size": 1028
@@ -4610,5 +4600,9 @@
       "sha256": "97d719296ce10d6e865d1be319cb218696c6436019e08ae83b0862fa7861a725",
       "size": 30806
     }
-  }
+  },
+  "delete": [
+    "mods/pv-addon-broadcast-1.1.0.jar",
+    "mods/pv-addon-spectator-1.1.0.jar"
+  ]
 }
