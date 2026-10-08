@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.05.145456",
+  "version": "2026.10.08.204851",
   "instance_name": "HardcoreZ",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -76,9 +76,9 @@
       "size": 5423
     },
     "mods/offlineskins-1.21.1-v1a-fabric.jar": {
-      "sha256": "a798be373b3912a1eb6d9a7f127d16726fa9ddd1d33bfe99b4fac96674c93326",
-      "size": 92613,
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-voice-skins-20261005/legacy-730d3f276535dde0-offlineskins.jar"
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-skin-sharing-20261008/legacy-730d3f276535dde0-offlineskins.jar",
+      "sha256": "14ef71b100005ebd17f86300a89fd137914fa655b3e19c47cf320016bb5a0892",
+      "size": 112961
     },
     "mods/sodium-fabric-0.6.0+mc1.21.1.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/Instances-Files/main/hardcorez/mods/sodium-fabric-0.6.0%2Bmc1.21.1.jar",
